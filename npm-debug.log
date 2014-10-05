@@ -1,0 +1,2240 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.32
+4 warn package.json presentation-soutenance-ei5@0.0.0 No repository field.
+5 verbose readDependencies using package.json deps
+6 verbose install where, deps [ '/Users/mathieudeumie/Projets/Github/Bespoke',
+6 verbose install   [ 'bespoke',
+6 verbose install     'bespoke-bullets',
+6 verbose install     'bespoke-forms',
+6 verbose install     'bespoke-hash',
+6 verbose install     'bespoke-keys',
+6 verbose install     'bespoke-progress',
+6 verbose install     'bespoke-state',
+6 verbose install     'bespoke-theme-cube',
+6 verbose install     'bespoke-touch',
+6 verbose install     'debowerify',
+6 verbose install     'gh-pages',
+6 verbose install     'gulp',
+6 verbose install     'gulp-autoprefixer',
+6 verbose install     'gulp-browserify',
+6 verbose install     'gulp-connect',
+6 verbose install     'gulp-csso',
+6 verbose install     'gulp-jade',
+6 verbose install     'gulp-plumber',
+6 verbose install     'gulp-rename',
+6 verbose install     'gulp-rimraf',
+6 verbose install     'gulp-stylus',
+6 verbose install     'gulp-uglify',
+6 verbose install     'gulp-util',
+6 verbose install     'insert-css',
+6 verbose install     'opn',
+6 verbose install     'through' ] ]
+7 info preinstall presentation-soutenance-ei5@0.0.0
+8 verbose readDependencies using package.json deps
+9 verbose cache add [ 'bespoke@^1.0.0', null ]
+10 verbose cache add name=undefined spec="bespoke@^1.0.0" args=["bespoke@^1.0.0",null]
+11 verbose parsed url { protocol: null,
+11 verbose parsed url   slashes: null,
+11 verbose parsed url   auth: null,
+11 verbose parsed url   host: null,
+11 verbose parsed url   port: null,
+11 verbose parsed url   hostname: null,
+11 verbose parsed url   hash: null,
+11 verbose parsed url   search: null,
+11 verbose parsed url   query: null,
+11 verbose parsed url   pathname: 'bespoke@^1.0.0',
+11 verbose parsed url   path: 'bespoke@^1.0.0',
+11 verbose parsed url   href: 'bespoke@^1.0.0' }
+12 verbose cache add [ 'bespoke-bullets@^1.0.0', null ]
+13 verbose cache add name=undefined spec="bespoke-bullets@^1.0.0" args=["bespoke-bullets@^1.0.0",null]
+14 verbose parsed url { protocol: null,
+14 verbose parsed url   slashes: null,
+14 verbose parsed url   auth: null,
+14 verbose parsed url   host: null,
+14 verbose parsed url   port: null,
+14 verbose parsed url   hostname: null,
+14 verbose parsed url   hash: null,
+14 verbose parsed url   search: null,
+14 verbose parsed url   query: null,
+14 verbose parsed url   pathname: 'bespoke-bullets@^1.0.0',
+14 verbose parsed url   path: 'bespoke-bullets@^1.0.0',
+14 verbose parsed url   href: 'bespoke-bullets@^1.0.0' }
+15 verbose cache add [ 'bespoke-forms@^1.0.0', null ]
+16 verbose cache add name=undefined spec="bespoke-forms@^1.0.0" args=["bespoke-forms@^1.0.0",null]
+17 verbose parsed url { protocol: null,
+17 verbose parsed url   slashes: null,
+17 verbose parsed url   auth: null,
+17 verbose parsed url   host: null,
+17 verbose parsed url   port: null,
+17 verbose parsed url   hostname: null,
+17 verbose parsed url   hash: null,
+17 verbose parsed url   search: null,
+17 verbose parsed url   query: null,
+17 verbose parsed url   pathname: 'bespoke-forms@^1.0.0',
+17 verbose parsed url   path: 'bespoke-forms@^1.0.0',
+17 verbose parsed url   href: 'bespoke-forms@^1.0.0' }
+18 verbose cache add [ 'bespoke-hash@^1.0.0', null ]
+19 verbose cache add name=undefined spec="bespoke-hash@^1.0.0" args=["bespoke-hash@^1.0.0",null]
+20 verbose parsed url { protocol: null,
+20 verbose parsed url   slashes: null,
+20 verbose parsed url   auth: null,
+20 verbose parsed url   host: null,
+20 verbose parsed url   port: null,
+20 verbose parsed url   hostname: null,
+20 verbose parsed url   hash: null,
+20 verbose parsed url   search: null,
+20 verbose parsed url   query: null,
+20 verbose parsed url   pathname: 'bespoke-hash@^1.0.0',
+20 verbose parsed url   path: 'bespoke-hash@^1.0.0',
+20 verbose parsed url   href: 'bespoke-hash@^1.0.0' }
+21 verbose cache add name="bespoke" spec="^1.0.0" args=["bespoke","^1.0.0"]
+22 verbose parsed url { protocol: null,
+22 verbose parsed url   slashes: null,
+22 verbose parsed url   auth: null,
+22 verbose parsed url   host: null,
+22 verbose parsed url   port: null,
+22 verbose parsed url   hostname: null,
+22 verbose parsed url   hash: null,
+22 verbose parsed url   search: null,
+22 verbose parsed url   query: null,
+22 verbose parsed url   pathname: '^1.0.0',
+22 verbose parsed url   path: '^1.0.0',
+22 verbose parsed url   href: '^1.0.0' }
+23 verbose addNamed [ 'bespoke', '^1.0.0' ]
+24 verbose addNamed [ null, '>=1.0.0-0 <2.0.0-0' ]
+25 verbose cache add name="bespoke-bullets" spec="^1.0.0" args=["bespoke-bullets","^1.0.0"]
+26 verbose parsed url { protocol: null,
+26 verbose parsed url   slashes: null,
+26 verbose parsed url   auth: null,
+26 verbose parsed url   host: null,
+26 verbose parsed url   port: null,
+26 verbose parsed url   hostname: null,
+26 verbose parsed url   hash: null,
+26 verbose parsed url   search: null,
+26 verbose parsed url   query: null,
+26 verbose parsed url   pathname: '^1.0.0',
+26 verbose parsed url   path: '^1.0.0',
+26 verbose parsed url   href: '^1.0.0' }
+27 verbose addNamed [ 'bespoke-bullets', '^1.0.0' ]
+28 verbose addNamed [ null, '>=1.0.0-0 <2.0.0-0' ]
+29 verbose cache add name="bespoke-forms" spec="^1.0.0" args=["bespoke-forms","^1.0.0"]
+30 verbose parsed url { protocol: null,
+30 verbose parsed url   slashes: null,
+30 verbose parsed url   auth: null,
+30 verbose parsed url   host: null,
+30 verbose parsed url   port: null,
+30 verbose parsed url   hostname: null,
+30 verbose parsed url   hash: null,
+30 verbose parsed url   search: null,
+30 verbose parsed url   query: null,
+30 verbose parsed url   pathname: '^1.0.0',
+30 verbose parsed url   path: '^1.0.0',
+30 verbose parsed url   href: '^1.0.0' }
+31 verbose addNamed [ 'bespoke-forms', '^1.0.0' ]
+32 verbose addNamed [ null, '>=1.0.0-0 <2.0.0-0' ]
+33 verbose cache add [ 'bespoke-keys@^1.0.0', null ]
+34 verbose cache add name=undefined spec="bespoke-keys@^1.0.0" args=["bespoke-keys@^1.0.0",null]
+35 verbose parsed url { protocol: null,
+35 verbose parsed url   slashes: null,
+35 verbose parsed url   auth: null,
+35 verbose parsed url   host: null,
+35 verbose parsed url   port: null,
+35 verbose parsed url   hostname: null,
+35 verbose parsed url   hash: null,
+35 verbose parsed url   search: null,
+35 verbose parsed url   query: null,
+35 verbose parsed url   pathname: 'bespoke-keys@^1.0.0',
+35 verbose parsed url   path: 'bespoke-keys@^1.0.0',
+35 verbose parsed url   href: 'bespoke-keys@^1.0.0' }
+36 verbose cache add [ 'bespoke-progress@^1.0.0', null ]
+37 verbose cache add name=undefined spec="bespoke-progress@^1.0.0" args=["bespoke-progress@^1.0.0",null]
+38 verbose parsed url { protocol: null,
+38 verbose parsed url   slashes: null,
+38 verbose parsed url   auth: null,
+38 verbose parsed url   host: null,
+38 verbose parsed url   port: null,
+38 verbose parsed url   hostname: null,
+38 verbose parsed url   hash: null,
+38 verbose parsed url   search: null,
+38 verbose parsed url   query: null,
+38 verbose parsed url   pathname: 'bespoke-progress@^1.0.0',
+38 verbose parsed url   path: 'bespoke-progress@^1.0.0',
+38 verbose parsed url   href: 'bespoke-progress@^1.0.0' }
+39 verbose cache add name="bespoke-hash" spec="^1.0.0" args=["bespoke-hash","^1.0.0"]
+40 verbose parsed url { protocol: null,
+40 verbose parsed url   slashes: null,
+40 verbose parsed url   auth: null,
+40 verbose parsed url   host: null,
+40 verbose parsed url   port: null,
+40 verbose parsed url   hostname: null,
+40 verbose parsed url   hash: null,
+40 verbose parsed url   search: null,
+40 verbose parsed url   query: null,
+40 verbose parsed url   pathname: '^1.0.0',
+40 verbose parsed url   path: '^1.0.0',
+40 verbose parsed url   href: '^1.0.0' }
+41 verbose addNamed [ 'bespoke-hash', '^1.0.0' ]
+42 verbose addNamed [ null, '>=1.0.0-0 <2.0.0-0' ]
+43 silly lockFile 995f6417-bespoke-1-0-0 bespoke@^1.0.0
+44 verbose lock bespoke@^1.0.0 /Users/mathieudeumie/.npm/995f6417-bespoke-1-0-0.lock
+45 silly lockFile 0afae833-bespoke-bullets-1-0-0 bespoke-bullets@^1.0.0
+46 verbose lock bespoke-bullets@^1.0.0 /Users/mathieudeumie/.npm/0afae833-bespoke-bullets-1-0-0.lock
+47 silly lockFile aba2f0be-bespoke-forms-1-0-0 bespoke-forms@^1.0.0
+48 verbose lock bespoke-forms@^1.0.0 /Users/mathieudeumie/.npm/aba2f0be-bespoke-forms-1-0-0.lock
+49 silly lockFile 6966db10-bespoke-hash-1-0-0 bespoke-hash@^1.0.0
+50 verbose lock bespoke-hash@^1.0.0 /Users/mathieudeumie/.npm/6966db10-bespoke-hash-1-0-0.lock
+51 verbose cache add name="bespoke-keys" spec="^1.0.0" args=["bespoke-keys","^1.0.0"]
+52 verbose parsed url { protocol: null,
+52 verbose parsed url   slashes: null,
+52 verbose parsed url   auth: null,
+52 verbose parsed url   host: null,
+52 verbose parsed url   port: null,
+52 verbose parsed url   hostname: null,
+52 verbose parsed url   hash: null,
+52 verbose parsed url   search: null,
+52 verbose parsed url   query: null,
+52 verbose parsed url   pathname: '^1.0.0',
+52 verbose parsed url   path: '^1.0.0',
+52 verbose parsed url   href: '^1.0.0' }
+53 verbose addNamed [ 'bespoke-keys', '^1.0.0' ]
+54 verbose addNamed [ null, '>=1.0.0-0 <2.0.0-0' ]
+55 silly lockFile 5f94db1c-bespoke-keys-1-0-0 bespoke-keys@^1.0.0
+56 verbose lock bespoke-keys@^1.0.0 /Users/mathieudeumie/.npm/5f94db1c-bespoke-keys-1-0-0.lock
+57 verbose cache add [ 'bespoke-state@^1.0.0', null ]
+58 verbose cache add name=undefined spec="bespoke-state@^1.0.0" args=["bespoke-state@^1.0.0",null]
+59 verbose parsed url { protocol: null,
+59 verbose parsed url   slashes: null,
+59 verbose parsed url   auth: null,
+59 verbose parsed url   host: null,
+59 verbose parsed url   port: null,
+59 verbose parsed url   hostname: null,
+59 verbose parsed url   hash: null,
+59 verbose parsed url   search: null,
+59 verbose parsed url   query: null,
+59 verbose parsed url   pathname: 'bespoke-state@^1.0.0',
+59 verbose parsed url   path: 'bespoke-state@^1.0.0',
+59 verbose parsed url   href: 'bespoke-state@^1.0.0' }
+60 verbose cache add [ 'bespoke-theme-cube@^1.0.0', null ]
+61 verbose cache add name=undefined spec="bespoke-theme-cube@^1.0.0" args=["bespoke-theme-cube@^1.0.0",null]
+62 verbose parsed url { protocol: null,
+62 verbose parsed url   slashes: null,
+62 verbose parsed url   auth: null,
+62 verbose parsed url   host: null,
+62 verbose parsed url   port: null,
+62 verbose parsed url   hostname: null,
+62 verbose parsed url   hash: null,
+62 verbose parsed url   search: null,
+62 verbose parsed url   query: null,
+62 verbose parsed url   pathname: 'bespoke-theme-cube@^1.0.0',
+62 verbose parsed url   path: 'bespoke-theme-cube@^1.0.0',
+62 verbose parsed url   href: 'bespoke-theme-cube@^1.0.0' }
+63 verbose cache add name="bespoke-progress" spec="^1.0.0" args=["bespoke-progress","^1.0.0"]
+64 verbose parsed url { protocol: null,
+64 verbose parsed url   slashes: null,
+64 verbose parsed url   auth: null,
+64 verbose parsed url   host: null,
+64 verbose parsed url   port: null,
+64 verbose parsed url   hostname: null,
+64 verbose parsed url   hash: null,
+64 verbose parsed url   search: null,
+64 verbose parsed url   query: null,
+64 verbose parsed url   pathname: '^1.0.0',
+64 verbose parsed url   path: '^1.0.0',
+64 verbose parsed url   href: '^1.0.0' }
+65 verbose addNamed [ 'bespoke-progress', '^1.0.0' ]
+66 verbose addNamed [ null, '>=1.0.0-0 <2.0.0-0' ]
+67 silly lockFile ece4526c-bespoke-progress-1-0-0 bespoke-progress@^1.0.0
+68 verbose lock bespoke-progress@^1.0.0 /Users/mathieudeumie/.npm/ece4526c-bespoke-progress-1-0-0.lock
+69 verbose cache add name="bespoke-state" spec="^1.0.0" args=["bespoke-state","^1.0.0"]
+70 verbose parsed url { protocol: null,
+70 verbose parsed url   slashes: null,
+70 verbose parsed url   auth: null,
+70 verbose parsed url   host: null,
+70 verbose parsed url   port: null,
+70 verbose parsed url   hostname: null,
+70 verbose parsed url   hash: null,
+70 verbose parsed url   search: null,
+70 verbose parsed url   query: null,
+70 verbose parsed url   pathname: '^1.0.0',
+70 verbose parsed url   path: '^1.0.0',
+70 verbose parsed url   href: '^1.0.0' }
+71 verbose addNamed [ 'bespoke-state', '^1.0.0' ]
+72 verbose addNamed [ null, '>=1.0.0-0 <2.0.0-0' ]
+73 silly lockFile 5a92c0d8-bespoke-state-1-0-0 bespoke-state@^1.0.0
+74 verbose lock bespoke-state@^1.0.0 /Users/mathieudeumie/.npm/5a92c0d8-bespoke-state-1-0-0.lock
+75 verbose cache add [ 'bespoke-touch@^1.0.0', null ]
+76 verbose cache add name=undefined spec="bespoke-touch@^1.0.0" args=["bespoke-touch@^1.0.0",null]
+77 verbose parsed url { protocol: null,
+77 verbose parsed url   slashes: null,
+77 verbose parsed url   auth: null,
+77 verbose parsed url   host: null,
+77 verbose parsed url   port: null,
+77 verbose parsed url   hostname: null,
+77 verbose parsed url   hash: null,
+77 verbose parsed url   search: null,
+77 verbose parsed url   query: null,
+77 verbose parsed url   pathname: 'bespoke-touch@^1.0.0',
+77 verbose parsed url   path: 'bespoke-touch@^1.0.0',
+77 verbose parsed url   href: 'bespoke-touch@^1.0.0' }
+78 verbose cache add name="bespoke-theme-cube" spec="^1.0.0" args=["bespoke-theme-cube","^1.0.0"]
+79 verbose parsed url { protocol: null,
+79 verbose parsed url   slashes: null,
+79 verbose parsed url   auth: null,
+79 verbose parsed url   host: null,
+79 verbose parsed url   port: null,
+79 verbose parsed url   hostname: null,
+79 verbose parsed url   hash: null,
+79 verbose parsed url   search: null,
+79 verbose parsed url   query: null,
+79 verbose parsed url   pathname: '^1.0.0',
+79 verbose parsed url   path: '^1.0.0',
+79 verbose parsed url   href: '^1.0.0' }
+80 verbose addNamed [ 'bespoke-theme-cube', '^1.0.0' ]
+81 verbose addNamed [ null, '>=1.0.0-0 <2.0.0-0' ]
+82 silly lockFile abb9a108-bespoke-theme-cube-1-0-0 bespoke-theme-cube@^1.0.0
+83 verbose lock bespoke-theme-cube@^1.0.0 /Users/mathieudeumie/.npm/abb9a108-bespoke-theme-cube-1-0-0.lock
+84 silly addNameRange { name: 'bespoke', range: '>=1.0.0-0 <2.0.0-0', hasData: false }
+85 silly addNameRange { name: 'bespoke-bullets',
+85 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+85 silly addNameRange   hasData: false }
+86 silly addNameRange { name: 'bespoke-forms',
+86 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+86 silly addNameRange   hasData: false }
+87 silly addNameRange { name: 'bespoke-keys',
+87 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+87 silly addNameRange   hasData: false }
+88 verbose cache add [ 'debowerify@^0.7.1', null ]
+89 verbose cache add name=undefined spec="debowerify@^0.7.1" args=["debowerify@^0.7.1",null]
+90 verbose parsed url { protocol: null,
+90 verbose parsed url   slashes: null,
+90 verbose parsed url   auth: null,
+90 verbose parsed url   host: null,
+90 verbose parsed url   port: null,
+90 verbose parsed url   hostname: null,
+90 verbose parsed url   hash: null,
+90 verbose parsed url   search: null,
+90 verbose parsed url   query: null,
+90 verbose parsed url   pathname: 'debowerify@^0.7.1',
+90 verbose parsed url   path: 'debowerify@^0.7.1',
+90 verbose parsed url   href: 'debowerify@^0.7.1' }
+91 verbose cache add [ 'gh-pages@^0.2.0', null ]
+92 verbose cache add name=undefined spec="gh-pages@^0.2.0" args=["gh-pages@^0.2.0",null]
+93 verbose parsed url { protocol: null,
+93 verbose parsed url   slashes: null,
+93 verbose parsed url   auth: null,
+93 verbose parsed url   host: null,
+93 verbose parsed url   port: null,
+93 verbose parsed url   hostname: null,
+93 verbose parsed url   hash: null,
+93 verbose parsed url   search: null,
+93 verbose parsed url   query: null,
+93 verbose parsed url   pathname: 'gh-pages@^0.2.0',
+93 verbose parsed url   path: 'gh-pages@^0.2.0',
+93 verbose parsed url   href: 'gh-pages@^0.2.0' }
+94 verbose cache add [ 'gulp@^3.8.7', null ]
+95 verbose cache add name=undefined spec="gulp@^3.8.7" args=["gulp@^3.8.7",null]
+96 verbose parsed url { protocol: null,
+96 verbose parsed url   slashes: null,
+96 verbose parsed url   auth: null,
+96 verbose parsed url   host: null,
+96 verbose parsed url   port: null,
+96 verbose parsed url   hostname: null,
+96 verbose parsed url   hash: null,
+96 verbose parsed url   search: null,
+96 verbose parsed url   query: null,
+96 verbose parsed url   pathname: 'gulp@^3.8.7',
+96 verbose parsed url   path: 'gulp@^3.8.7',
+96 verbose parsed url   href: 'gulp@^3.8.7' }
+97 verbose cache add [ 'gulp-autoprefixer@0.0.7', null ]
+98 verbose cache add name=undefined spec="gulp-autoprefixer@0.0.7" args=["gulp-autoprefixer@0.0.7",null]
+99 verbose parsed url { protocol: null,
+99 verbose parsed url   slashes: null,
+99 verbose parsed url   auth: null,
+99 verbose parsed url   host: null,
+99 verbose parsed url   port: null,
+99 verbose parsed url   hostname: null,
+99 verbose parsed url   hash: null,
+99 verbose parsed url   search: null,
+99 verbose parsed url   query: null,
+99 verbose parsed url   pathname: 'gulp-autoprefixer@0.0.7',
+99 verbose parsed url   path: 'gulp-autoprefixer@0.0.7',
+99 verbose parsed url   href: 'gulp-autoprefixer@0.0.7' }
+100 verbose cache add name="bespoke-touch" spec="^1.0.0" args=["bespoke-touch","^1.0.0"]
+101 verbose parsed url { protocol: null,
+101 verbose parsed url   slashes: null,
+101 verbose parsed url   auth: null,
+101 verbose parsed url   host: null,
+101 verbose parsed url   port: null,
+101 verbose parsed url   hostname: null,
+101 verbose parsed url   hash: null,
+101 verbose parsed url   search: null,
+101 verbose parsed url   query: null,
+101 verbose parsed url   pathname: '^1.0.0',
+101 verbose parsed url   path: '^1.0.0',
+101 verbose parsed url   href: '^1.0.0' }
+102 verbose addNamed [ 'bespoke-touch', '^1.0.0' ]
+103 verbose addNamed [ null, '>=1.0.0-0 <2.0.0-0' ]
+104 silly lockFile 17137578-bespoke-touch-1-0-0 bespoke-touch@^1.0.0
+105 verbose lock bespoke-touch@^1.0.0 /Users/mathieudeumie/.npm/17137578-bespoke-touch-1-0-0.lock
+106 silly addNameRange { name: 'bespoke-hash',
+106 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+106 silly addNameRange   hasData: false }
+107 silly addNameRange { name: 'bespoke-progress',
+107 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+107 silly addNameRange   hasData: false }
+108 silly addNameRange { name: 'bespoke-state',
+108 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+108 silly addNameRange   hasData: false }
+109 verbose cache add name="debowerify" spec="^0.7.1" args=["debowerify","^0.7.1"]
+110 verbose parsed url { protocol: null,
+110 verbose parsed url   slashes: null,
+110 verbose parsed url   auth: null,
+110 verbose parsed url   host: null,
+110 verbose parsed url   port: null,
+110 verbose parsed url   hostname: null,
+110 verbose parsed url   hash: null,
+110 verbose parsed url   search: null,
+110 verbose parsed url   query: null,
+110 verbose parsed url   pathname: '^0.7.1',
+110 verbose parsed url   path: '^0.7.1',
+110 verbose parsed url   href: '^0.7.1' }
+111 verbose addNamed [ 'debowerify', '^0.7.1' ]
+112 verbose addNamed [ null, '>=0.7.1-0 <0.8.0-0' ]
+113 silly lockFile 0a58e2fc-debowerify-0-7-1 debowerify@^0.7.1
+114 verbose lock debowerify@^0.7.1 /Users/mathieudeumie/.npm/0a58e2fc-debowerify-0-7-1.lock
+115 verbose cache add name="gh-pages" spec="^0.2.0" args=["gh-pages","^0.2.0"]
+116 verbose parsed url { protocol: null,
+116 verbose parsed url   slashes: null,
+116 verbose parsed url   auth: null,
+116 verbose parsed url   host: null,
+116 verbose parsed url   port: null,
+116 verbose parsed url   hostname: null,
+116 verbose parsed url   hash: null,
+116 verbose parsed url   search: null,
+116 verbose parsed url   query: null,
+116 verbose parsed url   pathname: '^0.2.0',
+116 verbose parsed url   path: '^0.2.0',
+116 verbose parsed url   href: '^0.2.0' }
+117 verbose addNamed [ 'gh-pages', '^0.2.0' ]
+118 verbose addNamed [ null, '>=0.2.0-0 <0.3.0-0' ]
+119 silly lockFile 912808d9-gh-pages-0-2-0 gh-pages@^0.2.0
+120 verbose lock gh-pages@^0.2.0 /Users/mathieudeumie/.npm/912808d9-gh-pages-0-2-0.lock
+121 verbose cache add name="gulp" spec="^3.8.7" args=["gulp","^3.8.7"]
+122 verbose parsed url { protocol: null,
+122 verbose parsed url   slashes: null,
+122 verbose parsed url   auth: null,
+122 verbose parsed url   host: null,
+122 verbose parsed url   port: null,
+122 verbose parsed url   hostname: null,
+122 verbose parsed url   hash: null,
+122 verbose parsed url   search: null,
+122 verbose parsed url   query: null,
+122 verbose parsed url   pathname: '^3.8.7',
+122 verbose parsed url   path: '^3.8.7',
+122 verbose parsed url   href: '^3.8.7' }
+123 verbose addNamed [ 'gulp', '^3.8.7' ]
+124 verbose addNamed [ null, '>=3.8.7-0 <4.0.0-0' ]
+125 silly lockFile f00a0921-gulp-3-8-7 gulp@^3.8.7
+126 verbose lock gulp@^3.8.7 /Users/mathieudeumie/.npm/f00a0921-gulp-3-8-7.lock
+127 verbose cache add [ 'gulp-browserify@^0.5.0', null ]
+128 verbose cache add name=undefined spec="gulp-browserify@^0.5.0" args=["gulp-browserify@^0.5.0",null]
+129 verbose parsed url { protocol: null,
+129 verbose parsed url   slashes: null,
+129 verbose parsed url   auth: null,
+129 verbose parsed url   host: null,
+129 verbose parsed url   port: null,
+129 verbose parsed url   hostname: null,
+129 verbose parsed url   hash: null,
+129 verbose parsed url   search: null,
+129 verbose parsed url   query: null,
+129 verbose parsed url   pathname: 'gulp-browserify@^0.5.0',
+129 verbose parsed url   path: 'gulp-browserify@^0.5.0',
+129 verbose parsed url   href: 'gulp-browserify@^0.5.0' }
+130 verbose cache add [ 'gulp-connect@^2.0.5', null ]
+131 verbose cache add name=undefined spec="gulp-connect@^2.0.5" args=["gulp-connect@^2.0.5",null]
+132 verbose parsed url { protocol: null,
+132 verbose parsed url   slashes: null,
+132 verbose parsed url   auth: null,
+132 verbose parsed url   host: null,
+132 verbose parsed url   port: null,
+132 verbose parsed url   hostname: null,
+132 verbose parsed url   hash: null,
+132 verbose parsed url   search: null,
+132 verbose parsed url   query: null,
+132 verbose parsed url   pathname: 'gulp-connect@^2.0.5',
+132 verbose parsed url   path: 'gulp-connect@^2.0.5',
+132 verbose parsed url   href: 'gulp-connect@^2.0.5' }
+133 verbose cache add [ 'gulp-csso@^0.2.9', null ]
+134 verbose cache add name=undefined spec="gulp-csso@^0.2.9" args=["gulp-csso@^0.2.9",null]
+135 verbose parsed url { protocol: null,
+135 verbose parsed url   slashes: null,
+135 verbose parsed url   auth: null,
+135 verbose parsed url   host: null,
+135 verbose parsed url   port: null,
+135 verbose parsed url   hostname: null,
+135 verbose parsed url   hash: null,
+135 verbose parsed url   search: null,
+135 verbose parsed url   query: null,
+135 verbose parsed url   pathname: 'gulp-csso@^0.2.9',
+135 verbose parsed url   path: 'gulp-csso@^0.2.9',
+135 verbose parsed url   href: 'gulp-csso@^0.2.9' }
+136 verbose cache add [ 'gulp-jade@^0.6.0', null ]
+137 verbose cache add name=undefined spec="gulp-jade@^0.6.0" args=["gulp-jade@^0.6.0",null]
+138 verbose parsed url { protocol: null,
+138 verbose parsed url   slashes: null,
+138 verbose parsed url   auth: null,
+138 verbose parsed url   host: null,
+138 verbose parsed url   port: null,
+138 verbose parsed url   hostname: null,
+138 verbose parsed url   hash: null,
+138 verbose parsed url   search: null,
+138 verbose parsed url   query: null,
+138 verbose parsed url   pathname: 'gulp-jade@^0.6.0',
+138 verbose parsed url   path: 'gulp-jade@^0.6.0',
+138 verbose parsed url   href: 'gulp-jade@^0.6.0' }
+139 verbose cache add name="gulp-autoprefixer" spec="0.0.7" args=["gulp-autoprefixer","0.0.7"]
+140 verbose parsed url { protocol: null,
+140 verbose parsed url   slashes: null,
+140 verbose parsed url   auth: null,
+140 verbose parsed url   host: null,
+140 verbose parsed url   port: null,
+140 verbose parsed url   hostname: null,
+140 verbose parsed url   hash: null,
+140 verbose parsed url   search: null,
+140 verbose parsed url   query: null,
+140 verbose parsed url   pathname: '0.0.7',
+140 verbose parsed url   path: '0.0.7',
+140 verbose parsed url   href: '0.0.7' }
+141 verbose addNamed [ 'gulp-autoprefixer', '0.0.7' ]
+142 verbose addNamed [ '0.0.7', '0.0.7' ]
+143 silly lockFile 48cacbeb-gulp-autoprefixer-0-0-7 gulp-autoprefixer@0.0.7
+144 verbose lock gulp-autoprefixer@0.0.7 /Users/mathieudeumie/.npm/48cacbeb-gulp-autoprefixer-0-0-7.lock
+145 silly addNameRange { name: 'bespoke-theme-cube',
+145 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+145 silly addNameRange   hasData: false }
+146 verbose cache add name="gulp-browserify" spec="^0.5.0" args=["gulp-browserify","^0.5.0"]
+147 verbose parsed url { protocol: null,
+147 verbose parsed url   slashes: null,
+147 verbose parsed url   auth: null,
+147 verbose parsed url   host: null,
+147 verbose parsed url   port: null,
+147 verbose parsed url   hostname: null,
+147 verbose parsed url   hash: null,
+147 verbose parsed url   search: null,
+147 verbose parsed url   query: null,
+147 verbose parsed url   pathname: '^0.5.0',
+147 verbose parsed url   path: '^0.5.0',
+147 verbose parsed url   href: '^0.5.0' }
+148 verbose addNamed [ 'gulp-browserify', '^0.5.0' ]
+149 verbose addNamed [ null, '>=0.5.0-0 <0.6.0-0' ]
+150 silly lockFile e60463ea-gulp-browserify-0-5-0 gulp-browserify@^0.5.0
+151 verbose lock gulp-browserify@^0.5.0 /Users/mathieudeumie/.npm/e60463ea-gulp-browserify-0-5-0.lock
+152 verbose cache add name="gulp-connect" spec="^2.0.5" args=["gulp-connect","^2.0.5"]
+153 verbose parsed url { protocol: null,
+153 verbose parsed url   slashes: null,
+153 verbose parsed url   auth: null,
+153 verbose parsed url   host: null,
+153 verbose parsed url   port: null,
+153 verbose parsed url   hostname: null,
+153 verbose parsed url   hash: null,
+153 verbose parsed url   search: null,
+153 verbose parsed url   query: null,
+153 verbose parsed url   pathname: '^2.0.5',
+153 verbose parsed url   path: '^2.0.5',
+153 verbose parsed url   href: '^2.0.5' }
+154 verbose addNamed [ 'gulp-connect', '^2.0.5' ]
+155 verbose addNamed [ null, '>=2.0.5-0 <3.0.0-0' ]
+156 silly lockFile 2696f549-gulp-connect-2-0-5 gulp-connect@^2.0.5
+157 verbose lock gulp-connect@^2.0.5 /Users/mathieudeumie/.npm/2696f549-gulp-connect-2-0-5.lock
+158 verbose cache add name="gulp-csso" spec="^0.2.9" args=["gulp-csso","^0.2.9"]
+159 verbose parsed url { protocol: null,
+159 verbose parsed url   slashes: null,
+159 verbose parsed url   auth: null,
+159 verbose parsed url   host: null,
+159 verbose parsed url   port: null,
+159 verbose parsed url   hostname: null,
+159 verbose parsed url   hash: null,
+159 verbose parsed url   search: null,
+159 verbose parsed url   query: null,
+159 verbose parsed url   pathname: '^0.2.9',
+159 verbose parsed url   path: '^0.2.9',
+159 verbose parsed url   href: '^0.2.9' }
+160 verbose addNamed [ 'gulp-csso', '^0.2.9' ]
+161 verbose addNamed [ null, '>=0.2.9-0 <0.3.0-0' ]
+162 silly lockFile edaef1d5-gulp-csso-0-2-9 gulp-csso@^0.2.9
+163 verbose lock gulp-csso@^0.2.9 /Users/mathieudeumie/.npm/edaef1d5-gulp-csso-0-2-9.lock
+164 verbose cache add [ 'gulp-plumber@^0.6.3', null ]
+165 verbose cache add name=undefined spec="gulp-plumber@^0.6.3" args=["gulp-plumber@^0.6.3",null]
+166 verbose parsed url { protocol: null,
+166 verbose parsed url   slashes: null,
+166 verbose parsed url   auth: null,
+166 verbose parsed url   host: null,
+166 verbose parsed url   port: null,
+166 verbose parsed url   hostname: null,
+166 verbose parsed url   hash: null,
+166 verbose parsed url   search: null,
+166 verbose parsed url   query: null,
+166 verbose parsed url   pathname: 'gulp-plumber@^0.6.3',
+166 verbose parsed url   path: 'gulp-plumber@^0.6.3',
+166 verbose parsed url   href: 'gulp-plumber@^0.6.3' }
+167 verbose cache add [ 'gulp-rename@^1.2.0', null ]
+168 verbose cache add name=undefined spec="gulp-rename@^1.2.0" args=["gulp-rename@^1.2.0",null]
+169 verbose parsed url { protocol: null,
+169 verbose parsed url   slashes: null,
+169 verbose parsed url   auth: null,
+169 verbose parsed url   host: null,
+169 verbose parsed url   port: null,
+169 verbose parsed url   hostname: null,
+169 verbose parsed url   hash: null,
+169 verbose parsed url   search: null,
+169 verbose parsed url   query: null,
+169 verbose parsed url   pathname: 'gulp-rename@^1.2.0',
+169 verbose parsed url   path: 'gulp-rename@^1.2.0',
+169 verbose parsed url   href: 'gulp-rename@^1.2.0' }
+170 verbose cache add [ 'gulp-rimraf@^0.1.0', null ]
+171 verbose cache add name=undefined spec="gulp-rimraf@^0.1.0" args=["gulp-rimraf@^0.1.0",null]
+172 verbose parsed url { protocol: null,
+172 verbose parsed url   slashes: null,
+172 verbose parsed url   auth: null,
+172 verbose parsed url   host: null,
+172 verbose parsed url   port: null,
+172 verbose parsed url   hostname: null,
+172 verbose parsed url   hash: null,
+172 verbose parsed url   search: null,
+172 verbose parsed url   query: null,
+172 verbose parsed url   pathname: 'gulp-rimraf@^0.1.0',
+172 verbose parsed url   path: 'gulp-rimraf@^0.1.0',
+172 verbose parsed url   href: 'gulp-rimraf@^0.1.0' }
+173 verbose cache add name="gulp-jade" spec="^0.6.0" args=["gulp-jade","^0.6.0"]
+174 verbose parsed url { protocol: null,
+174 verbose parsed url   slashes: null,
+174 verbose parsed url   auth: null,
+174 verbose parsed url   host: null,
+174 verbose parsed url   port: null,
+174 verbose parsed url   hostname: null,
+174 verbose parsed url   hash: null,
+174 verbose parsed url   search: null,
+174 verbose parsed url   query: null,
+174 verbose parsed url   pathname: '^0.6.0',
+174 verbose parsed url   path: '^0.6.0',
+174 verbose parsed url   href: '^0.6.0' }
+175 verbose addNamed [ 'gulp-jade', '^0.6.0' ]
+176 verbose addNamed [ null, '>=0.6.0-0 <0.7.0-0' ]
+177 silly lockFile f9d2f285-gulp-jade-0-6-0 gulp-jade@^0.6.0
+178 verbose lock gulp-jade@^0.6.0 /Users/mathieudeumie/.npm/f9d2f285-gulp-jade-0-6-0.lock
+179 silly addNameRange { name: 'bespoke-touch',
+179 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+179 silly addNameRange   hasData: false }
+180 silly addNameRange { name: 'debowerify',
+180 silly addNameRange   range: '>=0.7.1-0 <0.8.0-0',
+180 silly addNameRange   hasData: false }
+181 silly addNameRange { name: 'gh-pages', range: '>=0.2.0-0 <0.3.0-0', hasData: false }
+182 silly addNameRange { name: 'gulp', range: '>=3.8.7-0 <4.0.0-0', hasData: false }
+183 verbose cache add name="gulp-plumber" spec="^0.6.3" args=["gulp-plumber","^0.6.3"]
+184 verbose parsed url { protocol: null,
+184 verbose parsed url   slashes: null,
+184 verbose parsed url   auth: null,
+184 verbose parsed url   host: null,
+184 verbose parsed url   port: null,
+184 verbose parsed url   hostname: null,
+184 verbose parsed url   hash: null,
+184 verbose parsed url   search: null,
+184 verbose parsed url   query: null,
+184 verbose parsed url   pathname: '^0.6.3',
+184 verbose parsed url   path: '^0.6.3',
+184 verbose parsed url   href: '^0.6.3' }
+185 verbose addNamed [ 'gulp-plumber', '^0.6.3' ]
+186 verbose addNamed [ null, '>=0.6.3-0 <0.7.0-0' ]
+187 silly lockFile 1eec61fa-gulp-plumber-0-6-3 gulp-plumber@^0.6.3
+188 verbose lock gulp-plumber@^0.6.3 /Users/mathieudeumie/.npm/1eec61fa-gulp-plumber-0-6-3.lock
+189 verbose cache add name="gulp-rename" spec="^1.2.0" args=["gulp-rename","^1.2.0"]
+190 verbose parsed url { protocol: null,
+190 verbose parsed url   slashes: null,
+190 verbose parsed url   auth: null,
+190 verbose parsed url   host: null,
+190 verbose parsed url   port: null,
+190 verbose parsed url   hostname: null,
+190 verbose parsed url   hash: null,
+190 verbose parsed url   search: null,
+190 verbose parsed url   query: null,
+190 verbose parsed url   pathname: '^1.2.0',
+190 verbose parsed url   path: '^1.2.0',
+190 verbose parsed url   href: '^1.2.0' }
+191 verbose addNamed [ 'gulp-rename', '^1.2.0' ]
+192 verbose addNamed [ null, '>=1.2.0-0 <2.0.0-0' ]
+193 silly lockFile 31cef36d-gulp-rename-1-2-0 gulp-rename@^1.2.0
+194 verbose lock gulp-rename@^1.2.0 /Users/mathieudeumie/.npm/31cef36d-gulp-rename-1-2-0.lock
+195 verbose cache add [ 'gulp-stylus@^1.0.2', null ]
+196 verbose cache add name=undefined spec="gulp-stylus@^1.0.2" args=["gulp-stylus@^1.0.2",null]
+197 verbose parsed url { protocol: null,
+197 verbose parsed url   slashes: null,
+197 verbose parsed url   auth: null,
+197 verbose parsed url   host: null,
+197 verbose parsed url   port: null,
+197 verbose parsed url   hostname: null,
+197 verbose parsed url   hash: null,
+197 verbose parsed url   search: null,
+197 verbose parsed url   query: null,
+197 verbose parsed url   pathname: 'gulp-stylus@^1.0.2',
+197 verbose parsed url   path: 'gulp-stylus@^1.0.2',
+197 verbose parsed url   href: 'gulp-stylus@^1.0.2' }
+198 verbose cache add [ 'gulp-uglify@^0.3.1', null ]
+199 verbose cache add name=undefined spec="gulp-uglify@^0.3.1" args=["gulp-uglify@^0.3.1",null]
+200 verbose parsed url { protocol: null,
+200 verbose parsed url   slashes: null,
+200 verbose parsed url   auth: null,
+200 verbose parsed url   host: null,
+200 verbose parsed url   port: null,
+200 verbose parsed url   hostname: null,
+200 verbose parsed url   hash: null,
+200 verbose parsed url   search: null,
+200 verbose parsed url   query: null,
+200 verbose parsed url   pathname: 'gulp-uglify@^0.3.1',
+200 verbose parsed url   path: 'gulp-uglify@^0.3.1',
+200 verbose parsed url   href: 'gulp-uglify@^0.3.1' }
+201 verbose cache add name="gulp-rimraf" spec="^0.1.0" args=["gulp-rimraf","^0.1.0"]
+202 verbose parsed url { protocol: null,
+202 verbose parsed url   slashes: null,
+202 verbose parsed url   auth: null,
+202 verbose parsed url   host: null,
+202 verbose parsed url   port: null,
+202 verbose parsed url   hostname: null,
+202 verbose parsed url   hash: null,
+202 verbose parsed url   search: null,
+202 verbose parsed url   query: null,
+202 verbose parsed url   pathname: '^0.1.0',
+202 verbose parsed url   path: '^0.1.0',
+202 verbose parsed url   href: '^0.1.0' }
+203 verbose addNamed [ 'gulp-rimraf', '^0.1.0' ]
+204 verbose addNamed [ null, '>=0.1.0-0 <0.2.0-0' ]
+205 silly lockFile 69b252c5-gulp-rimraf-0-1-0 gulp-rimraf@^0.1.0
+206 verbose lock gulp-rimraf@^0.1.0 /Users/mathieudeumie/.npm/69b252c5-gulp-rimraf-0-1-0.lock
+207 silly addNameRange { name: 'gulp-browserify',
+207 silly addNameRange   range: '>=0.5.0-0 <0.6.0-0',
+207 silly addNameRange   hasData: false }
+208 silly addNameRange { name: 'gulp-connect',
+208 silly addNameRange   range: '>=2.0.5-0 <3.0.0-0',
+208 silly addNameRange   hasData: false }
+209 silly addNameRange { name: 'gulp-csso',
+209 silly addNameRange   range: '>=0.2.9-0 <0.3.0-0',
+209 silly addNameRange   hasData: false }
+210 verbose cache add name="gulp-stylus" spec="^1.0.2" args=["gulp-stylus","^1.0.2"]
+211 verbose parsed url { protocol: null,
+211 verbose parsed url   slashes: null,
+211 verbose parsed url   auth: null,
+211 verbose parsed url   host: null,
+211 verbose parsed url   port: null,
+211 verbose parsed url   hostname: null,
+211 verbose parsed url   hash: null,
+211 verbose parsed url   search: null,
+211 verbose parsed url   query: null,
+211 verbose parsed url   pathname: '^1.0.2',
+211 verbose parsed url   path: '^1.0.2',
+211 verbose parsed url   href: '^1.0.2' }
+212 verbose addNamed [ 'gulp-stylus', '^1.0.2' ]
+213 verbose addNamed [ null, '>=1.0.2-0 <2.0.0-0' ]
+214 silly lockFile 31501a5a-gulp-stylus-1-0-2 gulp-stylus@^1.0.2
+215 verbose lock gulp-stylus@^1.0.2 /Users/mathieudeumie/.npm/31501a5a-gulp-stylus-1-0-2.lock
+216 verbose cache add [ 'gulp-util@^2.2.17', null ]
+217 verbose cache add name=undefined spec="gulp-util@^2.2.17" args=["gulp-util@^2.2.17",null]
+218 verbose parsed url { protocol: null,
+218 verbose parsed url   slashes: null,
+218 verbose parsed url   auth: null,
+218 verbose parsed url   host: null,
+218 verbose parsed url   port: null,
+218 verbose parsed url   hostname: null,
+218 verbose parsed url   hash: null,
+218 verbose parsed url   search: null,
+218 verbose parsed url   query: null,
+218 verbose parsed url   pathname: 'gulp-util@^2.2.17',
+218 verbose parsed url   path: 'gulp-util@^2.2.17',
+218 verbose parsed url   href: 'gulp-util@^2.2.17' }
+219 verbose cache add [ 'insert-css@^0.2.0', null ]
+220 verbose cache add name=undefined spec="insert-css@^0.2.0" args=["insert-css@^0.2.0",null]
+221 verbose parsed url { protocol: null,
+221 verbose parsed url   slashes: null,
+221 verbose parsed url   auth: null,
+221 verbose parsed url   host: null,
+221 verbose parsed url   port: null,
+221 verbose parsed url   hostname: null,
+221 verbose parsed url   hash: null,
+221 verbose parsed url   search: null,
+221 verbose parsed url   query: null,
+221 verbose parsed url   pathname: 'insert-css@^0.2.0',
+221 verbose parsed url   path: 'insert-css@^0.2.0',
+221 verbose parsed url   href: 'insert-css@^0.2.0' }
+222 verbose cache add [ 'opn@^0.1.2', null ]
+223 verbose cache add name=undefined spec="opn@^0.1.2" args=["opn@^0.1.2",null]
+224 verbose parsed url { protocol: null,
+224 verbose parsed url   slashes: null,
+224 verbose parsed url   auth: null,
+224 verbose parsed url   host: null,
+224 verbose parsed url   port: null,
+224 verbose parsed url   hostname: null,
+224 verbose parsed url   hash: null,
+224 verbose parsed url   search: null,
+224 verbose parsed url   query: null,
+224 verbose parsed url   pathname: 'opn@^0.1.2',
+224 verbose parsed url   path: 'opn@^0.1.2',
+224 verbose parsed url   href: 'opn@^0.1.2' }
+225 verbose cache add name="gulp-uglify" spec="^0.3.1" args=["gulp-uglify","^0.3.1"]
+226 verbose parsed url { protocol: null,
+226 verbose parsed url   slashes: null,
+226 verbose parsed url   auth: null,
+226 verbose parsed url   host: null,
+226 verbose parsed url   port: null,
+226 verbose parsed url   hostname: null,
+226 verbose parsed url   hash: null,
+226 verbose parsed url   search: null,
+226 verbose parsed url   query: null,
+226 verbose parsed url   pathname: '^0.3.1',
+226 verbose parsed url   path: '^0.3.1',
+226 verbose parsed url   href: '^0.3.1' }
+227 verbose addNamed [ 'gulp-uglify', '^0.3.1' ]
+228 verbose addNamed [ null, '>=0.3.1-0 <0.4.0-0' ]
+229 silly lockFile 965066dc-gulp-uglify-0-3-1 gulp-uglify@^0.3.1
+230 verbose lock gulp-uglify@^0.3.1 /Users/mathieudeumie/.npm/965066dc-gulp-uglify-0-3-1.lock
+231 silly addNameRange { name: 'gulp-jade',
+231 silly addNameRange   range: '>=0.6.0-0 <0.7.0-0',
+231 silly addNameRange   hasData: false }
+232 verbose request where is /bespoke
+233 verbose request registry https://registry.npmjs.org/
+234 verbose request id 44a71fb81b7dba20
+235 verbose url raw /bespoke
+236 verbose url resolving [ 'https://registry.npmjs.org/', './bespoke' ]
+237 verbose url resolved https://registry.npmjs.org/bespoke
+238 verbose request where is https://registry.npmjs.org/bespoke
+239 info trying registry request attempt 1 at 22:03:52
+240 verbose etag "823BTR7T5HT3X8THIOKWYFIO0"
+241 http GET https://registry.npmjs.org/bespoke
+242 verbose request where is /bespoke-bullets
+243 verbose request registry https://registry.npmjs.org/
+244 verbose url raw /bespoke-bullets
+245 verbose url resolving [ 'https://registry.npmjs.org/', './bespoke-bullets' ]
+246 verbose url resolved https://registry.npmjs.org/bespoke-bullets
+247 verbose request where is https://registry.npmjs.org/bespoke-bullets
+248 info trying registry request attempt 1 at 22:03:53
+249 verbose etag "2WABFB7HBE00CWKZE59QEG25W"
+250 http GET https://registry.npmjs.org/bespoke-bullets
+251 verbose request where is /bespoke-keys
+252 verbose request registry https://registry.npmjs.org/
+253 verbose url raw /bespoke-keys
+254 verbose url resolving [ 'https://registry.npmjs.org/', './bespoke-keys' ]
+255 verbose url resolved https://registry.npmjs.org/bespoke-keys
+256 verbose request where is https://registry.npmjs.org/bespoke-keys
+257 info trying registry request attempt 1 at 22:03:53
+258 verbose etag "3XDDKKKKFHZ1N4CVWFE0V88H7"
+259 http GET https://registry.npmjs.org/bespoke-keys
+260 verbose request where is /bespoke-forms
+261 verbose request registry https://registry.npmjs.org/
+262 verbose url raw /bespoke-forms
+263 verbose url resolving [ 'https://registry.npmjs.org/', './bespoke-forms' ]
+264 verbose url resolved https://registry.npmjs.org/bespoke-forms
+265 verbose request where is https://registry.npmjs.org/bespoke-forms
+266 info trying registry request attempt 1 at 22:03:53
+267 verbose etag "3HJOG1YSU9PAFICXFQC9AIAPS"
+268 http GET https://registry.npmjs.org/bespoke-forms
+269 silly addNameRange { name: 'gulp-rename',
+269 silly addNameRange   range: '>=1.2.0-0 <2.0.0-0',
+269 silly addNameRange   hasData: false }
+270 silly addNameRange { name: 'gulp-plumber',
+270 silly addNameRange   range: '>=0.6.3-0 <0.7.0-0',
+270 silly addNameRange   hasData: false }
+271 verbose cache add name="gulp-util" spec="^2.2.17" args=["gulp-util","^2.2.17"]
+272 verbose parsed url { protocol: null,
+272 verbose parsed url   slashes: null,
+272 verbose parsed url   auth: null,
+272 verbose parsed url   host: null,
+272 verbose parsed url   port: null,
+272 verbose parsed url   hostname: null,
+272 verbose parsed url   hash: null,
+272 verbose parsed url   search: null,
+272 verbose parsed url   query: null,
+272 verbose parsed url   pathname: '^2.2.17',
+272 verbose parsed url   path: '^2.2.17',
+272 verbose parsed url   href: '^2.2.17' }
+273 verbose addNamed [ 'gulp-util', '^2.2.17' ]
+274 verbose addNamed [ null, '>=2.2.17-0 <3.0.0-0' ]
+275 silly lockFile 4e4727d9-gulp-util-2-2-17 gulp-util@^2.2.17
+276 verbose lock gulp-util@^2.2.17 /Users/mathieudeumie/.npm/4e4727d9-gulp-util-2-2-17.lock
+277 verbose cache add name="insert-css" spec="^0.2.0" args=["insert-css","^0.2.0"]
+278 verbose parsed url { protocol: null,
+278 verbose parsed url   slashes: null,
+278 verbose parsed url   auth: null,
+278 verbose parsed url   host: null,
+278 verbose parsed url   port: null,
+278 verbose parsed url   hostname: null,
+278 verbose parsed url   hash: null,
+278 verbose parsed url   search: null,
+278 verbose parsed url   query: null,
+278 verbose parsed url   pathname: '^0.2.0',
+278 verbose parsed url   path: '^0.2.0',
+278 verbose parsed url   href: '^0.2.0' }
+279 verbose addNamed [ 'insert-css', '^0.2.0' ]
+280 verbose addNamed [ null, '>=0.2.0-0 <0.3.0-0' ]
+281 silly lockFile 5c38adff-insert-css-0-2-0 insert-css@^0.2.0
+282 verbose lock insert-css@^0.2.0 /Users/mathieudeumie/.npm/5c38adff-insert-css-0-2-0.lock
+283 verbose cache add [ 'through@^2.3.4', null ]
+284 verbose cache add name=undefined spec="through@^2.3.4" args=["through@^2.3.4",null]
+285 verbose parsed url { protocol: null,
+285 verbose parsed url   slashes: null,
+285 verbose parsed url   auth: null,
+285 verbose parsed url   host: null,
+285 verbose parsed url   port: null,
+285 verbose parsed url   hostname: null,
+285 verbose parsed url   hash: null,
+285 verbose parsed url   search: null,
+285 verbose parsed url   query: null,
+285 verbose parsed url   pathname: 'through@^2.3.4',
+285 verbose parsed url   path: 'through@^2.3.4',
+285 verbose parsed url   href: 'through@^2.3.4' }
+286 verbose cache add name="opn" spec="^0.1.2" args=["opn","^0.1.2"]
+287 verbose parsed url { protocol: null,
+287 verbose parsed url   slashes: null,
+287 verbose parsed url   auth: null,
+287 verbose parsed url   host: null,
+287 verbose parsed url   port: null,
+287 verbose parsed url   hostname: null,
+287 verbose parsed url   hash: null,
+287 verbose parsed url   search: null,
+287 verbose parsed url   query: null,
+287 verbose parsed url   pathname: '^0.1.2',
+287 verbose parsed url   path: '^0.1.2',
+287 verbose parsed url   href: '^0.1.2' }
+288 verbose addNamed [ 'opn', '^0.1.2' ]
+289 verbose addNamed [ null, '>=0.1.2-0 <0.2.0-0' ]
+290 silly lockFile 12270387-opn-0-1-2 opn@^0.1.2
+291 verbose lock opn@^0.1.2 /Users/mathieudeumie/.npm/12270387-opn-0-1-2.lock
+292 silly addNameRange { name: 'gulp-rimraf',
+292 silly addNameRange   range: '>=0.1.0-0 <0.2.0-0',
+292 silly addNameRange   hasData: false }
+293 verbose request where is /bespoke-hash
+294 verbose request registry https://registry.npmjs.org/
+295 verbose url raw /bespoke-hash
+296 verbose url resolving [ 'https://registry.npmjs.org/', './bespoke-hash' ]
+297 verbose url resolved https://registry.npmjs.org/bespoke-hash
+298 verbose request where is https://registry.npmjs.org/bespoke-hash
+299 info trying registry request attempt 1 at 22:03:53
+300 verbose etag "CIWB5Y6QWVNBJFRDDW6CXUKMX"
+301 http GET https://registry.npmjs.org/bespoke-hash
+302 verbose request where is /bespoke-progress
+303 verbose request registry https://registry.npmjs.org/
+304 verbose url raw /bespoke-progress
+305 verbose url resolving [ 'https://registry.npmjs.org/', './bespoke-progress' ]
+306 verbose url resolved https://registry.npmjs.org/bespoke-progress
+307 verbose request where is https://registry.npmjs.org/bespoke-progress
+308 info trying registry request attempt 1 at 22:03:53
+309 verbose etag "DN3OSTQWKMFJSOSFKZU1T34F"
+310 http GET https://registry.npmjs.org/bespoke-progress
+311 verbose request where is /bespoke-state
+312 verbose request registry https://registry.npmjs.org/
+313 verbose url raw /bespoke-state
+314 verbose url resolving [ 'https://registry.npmjs.org/', './bespoke-state' ]
+315 verbose url resolved https://registry.npmjs.org/bespoke-state
+316 verbose request where is https://registry.npmjs.org/bespoke-state
+317 info trying registry request attempt 1 at 22:03:54
+318 verbose etag "CYH8HB71DN9GIQAY9MK00QQOF"
+319 http GET https://registry.npmjs.org/bespoke-state
+320 silly addNameRange { name: 'gulp-stylus',
+320 silly addNameRange   range: '>=1.0.2-0 <2.0.0-0',
+320 silly addNameRange   hasData: false }
+321 verbose cache add name="through" spec="^2.3.4" args=["through","^2.3.4"]
+322 verbose parsed url { protocol: null,
+322 verbose parsed url   slashes: null,
+322 verbose parsed url   auth: null,
+322 verbose parsed url   host: null,
+322 verbose parsed url   port: null,
+322 verbose parsed url   hostname: null,
+322 verbose parsed url   hash: null,
+322 verbose parsed url   search: null,
+322 verbose parsed url   query: null,
+322 verbose parsed url   pathname: '^2.3.4',
+322 verbose parsed url   path: '^2.3.4',
+322 verbose parsed url   href: '^2.3.4' }
+323 verbose addNamed [ 'through', '^2.3.4' ]
+324 verbose addNamed [ null, '>=2.3.4-0 <3.0.0-0' ]
+325 silly lockFile 4a17867e-through-2-3-4 through@^2.3.4
+326 verbose lock through@^2.3.4 /Users/mathieudeumie/.npm/4a17867e-through-2-3-4.lock
+327 silly addNameRange { name: 'gulp-uglify',
+327 silly addNameRange   range: '>=0.3.1-0 <0.4.0-0',
+327 silly addNameRange   hasData: false }
+328 verbose request where is /bespoke-theme-cube
+329 verbose request registry https://registry.npmjs.org/
+330 verbose url raw /bespoke-theme-cube
+331 verbose url resolving [ 'https://registry.npmjs.org/', './bespoke-theme-cube' ]
+332 verbose url resolved https://registry.npmjs.org/bespoke-theme-cube
+333 verbose request where is https://registry.npmjs.org/bespoke-theme-cube
+334 info trying registry request attempt 1 at 22:03:54
+335 verbose etag "67K87YCB3AQZGRHVKYEAGSM8U"
+336 http GET https://registry.npmjs.org/bespoke-theme-cube
+337 silly addNameRange { name: 'gulp-util',
+337 silly addNameRange   range: '>=2.2.17-0 <3.0.0-0',
+337 silly addNameRange   hasData: false }
+338 silly addNameRange { name: 'insert-css',
+338 silly addNameRange   range: '>=0.2.0-0 <0.3.0-0',
+338 silly addNameRange   hasData: false }
+339 silly addNameRange { name: 'opn', range: '>=0.1.2-0 <0.2.0-0', hasData: false }
+340 verbose request where is /bespoke-touch
+341 verbose request registry https://registry.npmjs.org/
+342 verbose url raw /bespoke-touch
+343 verbose url resolving [ 'https://registry.npmjs.org/', './bespoke-touch' ]
+344 verbose url resolved https://registry.npmjs.org/bespoke-touch
+345 verbose request where is https://registry.npmjs.org/bespoke-touch
+346 info trying registry request attempt 1 at 22:03:54
+347 verbose etag "7FZ5IPRTROGXXJSE086VRNRW9"
+348 http GET https://registry.npmjs.org/bespoke-touch
+349 verbose request where is /debowerify
+350 verbose request registry https://registry.npmjs.org/
+351 verbose url raw /debowerify
+352 verbose url resolving [ 'https://registry.npmjs.org/', './debowerify' ]
+353 verbose url resolved https://registry.npmjs.org/debowerify
+354 verbose request where is https://registry.npmjs.org/debowerify
+355 info trying registry request attempt 1 at 22:03:54
+356 verbose etag "6WJY4NTBZTI59NYS40GGYH0SS"
+357 http GET https://registry.npmjs.org/debowerify
+358 verbose request where is /gh-pages
+359 verbose request registry https://registry.npmjs.org/
+360 verbose url raw /gh-pages
+361 verbose url resolving [ 'https://registry.npmjs.org/', './gh-pages' ]
+362 verbose url resolved https://registry.npmjs.org/gh-pages
+363 verbose request where is https://registry.npmjs.org/gh-pages
+364 info trying registry request attempt 1 at 22:03:54
+365 verbose etag "1JGZYVOQAD1DPIEZSPMTCD3WI"
+366 http GET https://registry.npmjs.org/gh-pages
+367 verbose request where is /gulp
+368 verbose request registry https://registry.npmjs.org/
+369 verbose url raw /gulp
+370 verbose url resolving [ 'https://registry.npmjs.org/', './gulp' ]
+371 verbose url resolved https://registry.npmjs.org/gulp
+372 verbose request where is https://registry.npmjs.org/gulp
+373 info trying registry request attempt 1 at 22:03:54
+374 verbose etag "4B2JMHMTDH4W22F5GVX56P6C0"
+375 http GET https://registry.npmjs.org/gulp
+376 silly addNameRange { name: 'through', range: '>=2.3.4-0 <3.0.0-0', hasData: false }
+377 verbose request where is /gulp-autoprefixer
+378 verbose request registry https://registry.npmjs.org/
+379 verbose url raw /gulp-autoprefixer
+380 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-autoprefixer' ]
+381 verbose url resolved https://registry.npmjs.org/gulp-autoprefixer
+382 verbose request where is https://registry.npmjs.org/gulp-autoprefixer
+383 info trying registry request attempt 1 at 22:03:54
+384 verbose etag "8XBE7QHTEH8DJOMK769AAWVBS"
+385 http GET https://registry.npmjs.org/gulp-autoprefixer
+386 verbose request where is /gulp-browserify
+387 verbose request registry https://registry.npmjs.org/
+388 verbose url raw /gulp-browserify
+389 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-browserify' ]
+390 verbose url resolved https://registry.npmjs.org/gulp-browserify
+391 verbose request where is https://registry.npmjs.org/gulp-browserify
+392 info trying registry request attempt 1 at 22:03:54
+393 verbose etag "5HH5OQUWWYG2P844P3XT84QGH"
+394 http GET https://registry.npmjs.org/gulp-browserify
+395 verbose request where is /gulp-csso
+396 verbose request registry https://registry.npmjs.org/
+397 verbose url raw /gulp-csso
+398 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-csso' ]
+399 verbose url resolved https://registry.npmjs.org/gulp-csso
+400 verbose request where is https://registry.npmjs.org/gulp-csso
+401 info trying registry request attempt 1 at 22:03:54
+402 verbose etag "8YEAUQBY5LEKBHCLKFNSSZYS"
+403 http GET https://registry.npmjs.org/gulp-csso
+404 verbose request where is /gulp-connect
+405 verbose request registry https://registry.npmjs.org/
+406 verbose url raw /gulp-connect
+407 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-connect' ]
+408 verbose url resolved https://registry.npmjs.org/gulp-connect
+409 verbose request where is https://registry.npmjs.org/gulp-connect
+410 info trying registry request attempt 1 at 22:03:54
+411 verbose etag "8BAR72JCOMFFRMWW8FLI66ZE6"
+412 http GET https://registry.npmjs.org/gulp-connect
+413 verbose request where is /gulp-jade
+414 verbose request registry https://registry.npmjs.org/
+415 verbose url raw /gulp-jade
+416 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-jade' ]
+417 verbose url resolved https://registry.npmjs.org/gulp-jade
+418 verbose request where is https://registry.npmjs.org/gulp-jade
+419 info trying registry request attempt 1 at 22:03:54
+420 verbose etag "1BVDCKOIYXC2A4CUFZS5UR3PN"
+421 http GET https://registry.npmjs.org/gulp-jade
+422 verbose request where is /gulp-plumber
+423 verbose request registry https://registry.npmjs.org/
+424 verbose url raw /gulp-plumber
+425 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-plumber' ]
+426 verbose url resolved https://registry.npmjs.org/gulp-plumber
+427 verbose request where is https://registry.npmjs.org/gulp-plumber
+428 info trying registry request attempt 1 at 22:03:54
+429 verbose etag "ACM237D8G1JCXG2JNW1GVS91I"
+430 http GET https://registry.npmjs.org/gulp-plumber
+431 verbose request where is /gulp-rename
+432 verbose request registry https://registry.npmjs.org/
+433 verbose url raw /gulp-rename
+434 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-rename' ]
+435 verbose url resolved https://registry.npmjs.org/gulp-rename
+436 verbose request where is https://registry.npmjs.org/gulp-rename
+437 info trying registry request attempt 1 at 22:03:54
+438 verbose etag "AJ9B02QH2RJYSPJAV1TFIIC37"
+439 http GET https://registry.npmjs.org/gulp-rename
+440 verbose request where is /gulp-rimraf
+441 verbose request registry https://registry.npmjs.org/
+442 verbose url raw /gulp-rimraf
+443 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-rimraf' ]
+444 verbose url resolved https://registry.npmjs.org/gulp-rimraf
+445 verbose request where is https://registry.npmjs.org/gulp-rimraf
+446 info trying registry request attempt 1 at 22:03:54
+447 verbose etag "2TUHKK3K4EFR550LJB3ZPPLDH"
+448 http GET https://registry.npmjs.org/gulp-rimraf
+449 verbose request where is /gulp-uglify
+450 verbose request registry https://registry.npmjs.org/
+451 verbose url raw /gulp-uglify
+452 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-uglify' ]
+453 verbose url resolved https://registry.npmjs.org/gulp-uglify
+454 verbose request where is https://registry.npmjs.org/gulp-uglify
+455 info trying registry request attempt 1 at 22:03:54
+456 verbose etag "8I7DT6UM02ABKFA1RZDE9WVOJ"
+457 http GET https://registry.npmjs.org/gulp-uglify
+458 verbose request where is /gulp-stylus
+459 verbose request registry https://registry.npmjs.org/
+460 verbose url raw /gulp-stylus
+461 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-stylus' ]
+462 verbose url resolved https://registry.npmjs.org/gulp-stylus
+463 verbose request where is https://registry.npmjs.org/gulp-stylus
+464 info trying registry request attempt 1 at 22:03:54
+465 verbose etag "F3VWG5B8C96OHJIA9IYD5ILB9"
+466 http GET https://registry.npmjs.org/gulp-stylus
+467 verbose request where is /gulp-util
+468 verbose request registry https://registry.npmjs.org/
+469 verbose url raw /gulp-util
+470 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-util' ]
+471 verbose url resolved https://registry.npmjs.org/gulp-util
+472 verbose request where is https://registry.npmjs.org/gulp-util
+473 info trying registry request attempt 1 at 22:03:54
+474 verbose etag "25D2R2FQSCD9H68SGK59EJL7B"
+475 http GET https://registry.npmjs.org/gulp-util
+476 verbose request where is /insert-css
+477 verbose request registry https://registry.npmjs.org/
+478 verbose url raw /insert-css
+479 verbose url resolving [ 'https://registry.npmjs.org/', './insert-css' ]
+480 verbose url resolved https://registry.npmjs.org/insert-css
+481 verbose request where is https://registry.npmjs.org/insert-css
+482 info trying registry request attempt 1 at 22:03:54
+483 verbose etag "AFDLTP20JWUAEF5DZM5VKTY3Z"
+484 http GET https://registry.npmjs.org/insert-css
+485 verbose request where is /through
+486 verbose request registry https://registry.npmjs.org/
+487 verbose url raw /through
+488 verbose url resolving [ 'https://registry.npmjs.org/', './through' ]
+489 verbose url resolved https://registry.npmjs.org/through
+490 verbose request where is https://registry.npmjs.org/through
+491 info trying registry request attempt 1 at 22:03:54
+492 verbose etag "B2LULHX4BMRQKA6MKU406OG80"
+493 http GET https://registry.npmjs.org/through
+494 verbose request where is /opn
+495 verbose request registry https://registry.npmjs.org/
+496 verbose url raw /opn
+497 verbose url resolving [ 'https://registry.npmjs.org/', './opn' ]
+498 verbose url resolved https://registry.npmjs.org/opn
+499 verbose request where is https://registry.npmjs.org/opn
+500 info trying registry request attempt 1 at 22:03:54
+501 verbose etag "4A4UQ6UPG2BHS80KERMNYH4HX"
+502 http GET https://registry.npmjs.org/opn
+503 http 304 https://registry.npmjs.org/bespoke-hash
+504 silly registry.get cb [ 304,
+504 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:55 GMT',
+504 silly registry.get     server: 'Apache',
+504 silly registry.get     via: '1.1 varnish',
+504 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:55 GMT',
+504 silly registry.get     'cache-control': 'max-age=60',
+504 silly registry.get     etag: '"CIWB5Y6QWVNBJFRDDW6CXUKMX"',
+504 silly registry.get     'x-served-by': 'cache-ams4133-AMS',
+504 silly registry.get     'x-cache': 'MISS',
+504 silly registry.get     'x-cache-hits': '0',
+504 silly registry.get     'x-timer': 'S1412539435.297727,VS0,VE166',
+504 silly registry.get     vary: 'Accept',
+504 silly registry.get     'content-length': '0',
+504 silly registry.get     'keep-alive': 'timeout=10, max=50',
+504 silly registry.get     connection: 'Keep-Alive' } ]
+505 verbose etag https://registry.npmjs.org/bespoke-hash from cache
+506 http 304 https://registry.npmjs.org/bespoke-bullets
+507 silly registry.get cb [ 304,
+507 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:55 GMT',
+507 silly registry.get     server: 'Apache',
+507 silly registry.get     via: '1.1 varnish',
+507 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:55 GMT',
+507 silly registry.get     'cache-control': 'max-age=60',
+507 silly registry.get     etag: '"2WABFB7HBE00CWKZE59QEG25W"',
+507 silly registry.get     'x-served-by': 'cache-ams4122-AMS',
+507 silly registry.get     'x-cache': 'MISS',
+507 silly registry.get     'x-cache-hits': '0',
+507 silly registry.get     'x-timer': 'S1412539435.200879,VS0,VE378',
+507 silly registry.get     vary: 'Accept',
+507 silly registry.get     'content-length': '0',
+507 silly registry.get     'keep-alive': 'timeout=10, max=50',
+507 silly registry.get     connection: 'Keep-Alive' } ]
+508 verbose etag https://registry.npmjs.org/bespoke-bullets from cache
+509 http 304 https://registry.npmjs.org/bespoke
+510 silly registry.get cb [ 304,
+510 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:55 GMT',
+510 silly registry.get     server: 'Apache',
+510 silly registry.get     via: '1.1 varnish',
+510 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:55 GMT',
+510 silly registry.get     'cache-control': 'max-age=60',
+510 silly registry.get     etag: '"823BTR7T5HT3X8THIOKWYFIO0"',
+510 silly registry.get     'x-served-by': 'cache-ams4126-AMS',
+510 silly registry.get     'x-cache': 'MISS',
+510 silly registry.get     'x-cache-hits': '0',
+510 silly registry.get     'x-timer': 'S1412539435.283149,VS0,VE462',
+510 silly registry.get     vary: 'Accept',
+510 silly registry.get     'content-length': '0',
+510 silly registry.get     'keep-alive': 'timeout=10, max=50',
+510 silly registry.get     connection: 'Keep-Alive' } ]
+511 verbose etag https://registry.npmjs.org/bespoke from cache
+512 silly addNameRange number 2 { name: 'bespoke-bullets',
+512 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+512 silly addNameRange   hasData: true }
+513 silly addNameRange versions [ 'bespoke-bullets',
+513 silly addNameRange   [ '0.2.1', '1.0.0-beta', '1.0.0', '1.1.0' ] ]
+514 verbose addNamed [ 'bespoke-bullets', '1.1.0' ]
+515 verbose addNamed [ '1.1.0', '1.1.0' ]
+516 silly lockFile d97476ff-bespoke-bullets-1-1-0 bespoke-bullets@1.1.0
+517 verbose lock bespoke-bullets@1.1.0 /Users/mathieudeumie/.npm/d97476ff-bespoke-bullets-1-1-0.lock
+518 silly addNameRange number 2 { name: 'bespoke-hash',
+518 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+518 silly addNameRange   hasData: true }
+519 silly addNameRange versions [ 'bespoke-hash', [ '0.1.2', '1.0.0-beta', '1.0.0' ] ]
+520 verbose addNamed [ 'bespoke-hash', '1.0.0' ]
+521 verbose addNamed [ '1.0.0', '1.0.0' ]
+522 silly lockFile f7080d84-bespoke-hash-1-0-0 bespoke-hash@1.0.0
+523 verbose lock bespoke-hash@1.0.0 /Users/mathieudeumie/.npm/f7080d84-bespoke-hash-1-0-0.lock
+524 silly addNameRange number 2 { name: 'bespoke', range: '>=1.0.0-0 <2.0.0-0', hasData: true }
+525 silly addNameRange versions [ 'bespoke',
+525 silly addNameRange   [ '0.3.1', '0.4.0', '1.0.0-beta', '1.0.0-beta.2', '1.0.0' ] ]
+526 verbose addNamed [ 'bespoke', '1.0.0' ]
+527 verbose addNamed [ '1.0.0', '1.0.0' ]
+528 silly lockFile e24ff041-bespoke-1-0-0 bespoke@1.0.0
+529 verbose lock bespoke@1.0.0 /Users/mathieudeumie/.npm/e24ff041-bespoke-1-0-0.lock
+530 silly lockFile d97476ff-bespoke-bullets-1-1-0 bespoke-bullets@1.1.0
+531 silly lockFile d97476ff-bespoke-bullets-1-1-0 bespoke-bullets@1.1.0
+532 silly lockFile e24ff041-bespoke-1-0-0 bespoke@1.0.0
+533 silly lockFile e24ff041-bespoke-1-0-0 bespoke@1.0.0
+534 silly lockFile f7080d84-bespoke-hash-1-0-0 bespoke-hash@1.0.0
+535 silly lockFile f7080d84-bespoke-hash-1-0-0 bespoke-hash@1.0.0
+536 silly lockFile 0afae833-bespoke-bullets-1-0-0 bespoke-bullets@^1.0.0
+537 silly lockFile 0afae833-bespoke-bullets-1-0-0 bespoke-bullets@^1.0.0
+538 silly lockFile 995f6417-bespoke-1-0-0 bespoke@^1.0.0
+539 silly lockFile 995f6417-bespoke-1-0-0 bespoke@^1.0.0
+540 silly lockFile 6966db10-bespoke-hash-1-0-0 bespoke-hash@^1.0.0
+541 silly lockFile 6966db10-bespoke-hash-1-0-0 bespoke-hash@^1.0.0
+542 http 304 https://registry.npmjs.org/bespoke-keys
+543 silly registry.get cb [ 304,
+543 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:55 GMT',
+543 silly registry.get     server: 'Apache',
+543 silly registry.get     via: '1.1 varnish',
+543 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:55 GMT',
+543 silly registry.get     'cache-control': 'max-age=60',
+543 silly registry.get     etag: '"3XDDKKKKFHZ1N4CVWFE0V88H7"',
+543 silly registry.get     'x-served-by': 'cache-ams4130-AMS',
+543 silly registry.get     'x-cache': 'MISS',
+543 silly registry.get     'x-cache-hits': '0',
+543 silly registry.get     'x-timer': 'S1412539435.223156,VS0,VE674',
+543 silly registry.get     vary: 'Accept',
+543 silly registry.get     'content-length': '0',
+543 silly registry.get     'keep-alive': 'timeout=10, max=50',
+543 silly registry.get     connection: 'Keep-Alive' } ]
+544 verbose etag https://registry.npmjs.org/bespoke-keys from cache
+545 http 304 https://registry.npmjs.org/bespoke-forms
+546 silly registry.get cb [ 304,
+546 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:55 GMT',
+546 silly registry.get     server: 'Apache',
+546 silly registry.get     via: '1.1 varnish',
+546 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:55 GMT',
+546 silly registry.get     'cache-control': 'max-age=60',
+546 silly registry.get     etag: '"3HJOG1YSU9PAFICXFQC9AIAPS"',
+546 silly registry.get     'x-served-by': 'cache-ams4126-AMS',
+546 silly registry.get     'x-cache': 'MISS',
+546 silly registry.get     'x-cache-hits': '0',
+546 silly registry.get     'x-timer': 'S1412539435.218886,VS0,VE678',
+546 silly registry.get     vary: 'Accept',
+546 silly registry.get     'content-length': '0',
+546 silly registry.get     'keep-alive': 'timeout=10, max=50',
+546 silly registry.get     connection: 'Keep-Alive' } ]
+547 verbose etag https://registry.npmjs.org/bespoke-forms from cache
+548 http 304 https://registry.npmjs.org/bespoke-progress
+549 silly registry.get cb [ 304,
+549 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:55 GMT',
+549 silly registry.get     server: 'Apache',
+549 silly registry.get     via: '1.1 varnish',
+549 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:55 GMT',
+549 silly registry.get     'cache-control': 'max-age=60',
+549 silly registry.get     etag: '"DN3OSTQWKMFJSOSFKZU1T34F"',
+549 silly registry.get     'x-served-by': 'cache-ams4133-AMS',
+549 silly registry.get     'x-cache': 'MISS',
+549 silly registry.get     'x-cache-hits': '0',
+549 silly registry.get     'x-timer': 'S1412539435.887713,VS0,VE94',
+549 silly registry.get     vary: 'Accept',
+549 silly registry.get     'content-length': '0',
+549 silly registry.get     'keep-alive': 'timeout=10, max=49',
+549 silly registry.get     connection: 'Keep-Alive' } ]
+550 verbose etag https://registry.npmjs.org/bespoke-progress from cache
+551 http 304 https://registry.npmjs.org/bespoke-state
+552 silly registry.get cb [ 304,
+552 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:55 GMT',
+552 silly registry.get     server: 'Apache',
+552 silly registry.get     via: '1.1 varnish',
+552 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:56 GMT',
+552 silly registry.get     'cache-control': 'max-age=60',
+552 silly registry.get     etag: '"CYH8HB71DN9GIQAY9MK00QQOF"',
+552 silly registry.get     'x-served-by': 'cache-ams4122-AMS',
+552 silly registry.get     'x-cache': 'MISS',
+552 silly registry.get     'x-cache-hits': '0',
+552 silly registry.get     'x-timer': 'S1412539435.935480,VS0,VE105',
+552 silly registry.get     vary: 'Accept',
+552 silly registry.get     'content-length': '0',
+552 silly registry.get     'keep-alive': 'timeout=10, max=49',
+552 silly registry.get     connection: 'Keep-Alive' } ]
+553 verbose etag https://registry.npmjs.org/bespoke-state from cache
+554 http 304 https://registry.npmjs.org/bespoke-theme-cube
+555 silly registry.get cb [ 304,
+555 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:55 GMT',
+555 silly registry.get     server: 'Apache',
+555 silly registry.get     via: '1.1 varnish',
+555 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:56 GMT',
+555 silly registry.get     'cache-control': 'max-age=60',
+555 silly registry.get     etag: '"67K87YCB3AQZGRHVKYEAGSM8U"',
+555 silly registry.get     'x-served-by': 'cache-ams4126-AMS',
+555 silly registry.get     'x-cache': 'MISS',
+555 silly registry.get     'x-cache-hits': '0',
+555 silly registry.get     'x-timer': 'S1412539435.943227,VS0,VE169',
+555 silly registry.get     vary: 'Accept',
+555 silly registry.get     'content-length': '0',
+555 silly registry.get     'keep-alive': 'timeout=10, max=49',
+555 silly registry.get     connection: 'Keep-Alive' } ]
+556 verbose etag https://registry.npmjs.org/bespoke-theme-cube from cache
+557 silly addNameRange number 2 { name: 'bespoke-forms',
+557 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+557 silly addNameRange   hasData: true }
+558 silly addNameRange versions [ 'bespoke-forms', [ '0.1.0', '1.0.0-beta', '1.0.0' ] ]
+559 verbose addNamed [ 'bespoke-forms', '1.0.0' ]
+560 verbose addNamed [ '1.0.0', '1.0.0' ]
+561 silly lockFile cd0161b1-bespoke-forms-1-0-0 bespoke-forms@1.0.0
+562 verbose lock bespoke-forms@1.0.0 /Users/mathieudeumie/.npm/cd0161b1-bespoke-forms-1-0-0.lock
+563 silly addNameRange number 2 { name: 'bespoke-keys',
+563 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+563 silly addNameRange   hasData: true }
+564 silly addNameRange versions [ 'bespoke-keys',
+564 silly addNameRange   [ '0.1.0', '1.0.0-beta', '1.0.0-beta.2', '1.0.0' ] ]
+565 verbose addNamed [ 'bespoke-keys', '1.0.0' ]
+566 verbose addNamed [ '1.0.0', '1.0.0' ]
+567 silly lockFile 0c9b5c44-bespoke-keys-1-0-0 bespoke-keys@1.0.0
+568 verbose lock bespoke-keys@1.0.0 /Users/mathieudeumie/.npm/0c9b5c44-bespoke-keys-1-0-0.lock
+569 silly addNameRange number 2 { name: 'bespoke-progress',
+569 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+569 silly addNameRange   hasData: true }
+570 silly addNameRange versions [ 'bespoke-progress', [ '0.1.0', '1.0.0-beta', '1.0.0' ] ]
+571 verbose addNamed [ 'bespoke-progress', '1.0.0' ]
+572 verbose addNamed [ '1.0.0', '1.0.0' ]
+573 silly lockFile cf272144-bespoke-progress-1-0-0 bespoke-progress@1.0.0
+574 verbose lock bespoke-progress@1.0.0 /Users/mathieudeumie/.npm/cf272144-bespoke-progress-1-0-0.lock
+575 silly addNameRange number 2 { name: 'bespoke-state',
+575 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+575 silly addNameRange   hasData: true }
+576 silly addNameRange versions [ 'bespoke-state', [ '0.2.2', '1.0.0-beta', '1.0.0' ] ]
+577 verbose addNamed [ 'bespoke-state', '1.0.0' ]
+578 verbose addNamed [ '1.0.0', '1.0.0' ]
+579 silly lockFile c5835f52-bespoke-state-1-0-0 bespoke-state@1.0.0
+580 verbose lock bespoke-state@1.0.0 /Users/mathieudeumie/.npm/c5835f52-bespoke-state-1-0-0.lock
+581 silly addNameRange number 2 { name: 'bespoke-theme-cube',
+581 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+581 silly addNameRange   hasData: true }
+582 silly addNameRange versions [ 'bespoke-theme-cube',
+582 silly addNameRange   [ '1.0.0-beta', '1.0.0-beta.3', '1.0.0', '1.1.0', '2.0.0' ] ]
+583 verbose addNamed [ 'bespoke-theme-cube', '1.1.0' ]
+584 verbose addNamed [ '1.1.0', '1.1.0' ]
+585 silly lockFile 2565739e-bespoke-theme-cube-1-1-0 bespoke-theme-cube@1.1.0
+586 verbose lock bespoke-theme-cube@1.1.0 /Users/mathieudeumie/.npm/2565739e-bespoke-theme-cube-1-1-0.lock
+587 silly lockFile cd0161b1-bespoke-forms-1-0-0 bespoke-forms@1.0.0
+588 silly lockFile cd0161b1-bespoke-forms-1-0-0 bespoke-forms@1.0.0
+589 silly lockFile 0c9b5c44-bespoke-keys-1-0-0 bespoke-keys@1.0.0
+590 silly lockFile 0c9b5c44-bespoke-keys-1-0-0 bespoke-keys@1.0.0
+591 silly lockFile aba2f0be-bespoke-forms-1-0-0 bespoke-forms@^1.0.0
+592 silly lockFile aba2f0be-bespoke-forms-1-0-0 bespoke-forms@^1.0.0
+593 silly lockFile 5f94db1c-bespoke-keys-1-0-0 bespoke-keys@^1.0.0
+594 silly lockFile 5f94db1c-bespoke-keys-1-0-0 bespoke-keys@^1.0.0
+595 silly lockFile cf272144-bespoke-progress-1-0-0 bespoke-progress@1.0.0
+596 silly lockFile cf272144-bespoke-progress-1-0-0 bespoke-progress@1.0.0
+597 silly lockFile c5835f52-bespoke-state-1-0-0 bespoke-state@1.0.0
+598 silly lockFile c5835f52-bespoke-state-1-0-0 bespoke-state@1.0.0
+599 silly lockFile 2565739e-bespoke-theme-cube-1-1-0 bespoke-theme-cube@1.1.0
+600 silly lockFile 2565739e-bespoke-theme-cube-1-1-0 bespoke-theme-cube@1.1.0
+601 silly lockFile ece4526c-bespoke-progress-1-0-0 bespoke-progress@^1.0.0
+602 silly lockFile ece4526c-bespoke-progress-1-0-0 bespoke-progress@^1.0.0
+603 silly lockFile 5a92c0d8-bespoke-state-1-0-0 bespoke-state@^1.0.0
+604 silly lockFile 5a92c0d8-bespoke-state-1-0-0 bespoke-state@^1.0.0
+605 silly lockFile abb9a108-bespoke-theme-cube-1-0-0 bespoke-theme-cube@^1.0.0
+606 silly lockFile abb9a108-bespoke-theme-cube-1-0-0 bespoke-theme-cube@^1.0.0
+607 http 304 https://registry.npmjs.org/gh-pages
+608 silly registry.get cb [ 304,
+608 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:56 GMT',
+608 silly registry.get     server: 'Apache',
+608 silly registry.get     via: '1.1 varnish',
+608 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:56 GMT',
+608 silly registry.get     'cache-control': 'max-age=60',
+608 silly registry.get     etag: '"1JGZYVOQAD1DPIEZSPMTCD3WI"',
+608 silly registry.get     'x-served-by': 'cache-ams4133-AMS',
+608 silly registry.get     'x-cache': 'MISS',
+608 silly registry.get     'x-cache-hits': '0',
+608 silly registry.get     'x-timer': 'S1412539436.392841,VS0,VE330',
+608 silly registry.get     vary: 'Accept',
+608 silly registry.get     'content-length': '0',
+608 silly registry.get     'keep-alive': 'timeout=10, max=48',
+608 silly registry.get     connection: 'Keep-Alive' } ]
+609 verbose etag https://registry.npmjs.org/gh-pages from cache
+610 silly addNameRange number 2 { name: 'gh-pages', range: '>=0.2.0-0 <0.3.0-0', hasData: true }
+611 silly addNameRange versions [ 'gh-pages', [ '0.1.0', '0.2.0' ] ]
+612 verbose addNamed [ 'gh-pages', '0.2.0' ]
+613 verbose addNamed [ '0.2.0', '0.2.0' ]
+614 silly lockFile 62d73c67-gh-pages-0-2-0 gh-pages@0.2.0
+615 verbose lock gh-pages@0.2.0 /Users/mathieudeumie/.npm/62d73c67-gh-pages-0-2-0.lock
+616 silly lockFile 62d73c67-gh-pages-0-2-0 gh-pages@0.2.0
+617 silly lockFile 62d73c67-gh-pages-0-2-0 gh-pages@0.2.0
+618 silly lockFile 912808d9-gh-pages-0-2-0 gh-pages@^0.2.0
+619 silly lockFile 912808d9-gh-pages-0-2-0 gh-pages@^0.2.0
+620 http 304 https://registry.npmjs.org/debowerify
+621 silly registry.get cb [ 304,
+621 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:56 GMT',
+621 silly registry.get     server: 'Apache',
+621 silly registry.get     via: '1.1 varnish',
+621 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:56 GMT',
+621 silly registry.get     'cache-control': 'max-age=60',
+621 silly registry.get     etag: '"6WJY4NTBZTI59NYS40GGYH0SS"',
+621 silly registry.get     'x-served-by': 'cache-ams4126-AMS',
+621 silly registry.get     'x-cache': 'MISS',
+621 silly registry.get     'x-cache-hits': '0',
+621 silly registry.get     'x-timer': 'S1412539436.384392,VS0,VE483',
+621 silly registry.get     vary: 'Accept',
+621 silly registry.get     'content-length': '0',
+621 silly registry.get     'keep-alive': 'timeout=10, max=49',
+621 silly registry.get     connection: 'Keep-Alive' } ]
+622 verbose etag https://registry.npmjs.org/debowerify from cache
+623 silly addNameRange number 2 { name: 'debowerify',
+623 silly addNameRange   range: '>=0.7.1-0 <0.8.0-0',
+623 silly addNameRange   hasData: true }
+624 silly addNameRange versions [ 'debowerify',
+624 silly addNameRange   [ '0.0.1',
+624 silly addNameRange     '0.0.2',
+624 silly addNameRange     '0.0.3',
+624 silly addNameRange     '0.0.4',
+624 silly addNameRange     '0.0.5',
+624 silly addNameRange     '0.0.6',
+624 silly addNameRange     '0.0.7',
+624 silly addNameRange     '0.0.8',
+624 silly addNameRange     '0.0.9',
+624 silly addNameRange     '0.0.10',
+624 silly addNameRange     '0.0.11',
+624 silly addNameRange     '0.0.12',
+624 silly addNameRange     '0.0.13',
+624 silly addNameRange     '0.0.14',
+624 silly addNameRange     '0.1.0',
+624 silly addNameRange     '0.1.1',
+624 silly addNameRange     '0.1.2',
+624 silly addNameRange     '0.1.3',
+624 silly addNameRange     '0.1.4',
+624 silly addNameRange     '0.1.5',
+624 silly addNameRange     '0.1.6',
+624 silly addNameRange     '0.1.8',
+624 silly addNameRange     '0.1.9',
+624 silly addNameRange     '0.2.0',
+624 silly addNameRange     '0.3.0',
+624 silly addNameRange     '0.4.0',
+624 silly addNameRange     '0.5.0',
+624 silly addNameRange     '0.5.1',
+624 silly addNameRange     '0.5.2',
+624 silly addNameRange     '0.6.0',
+624 silly addNameRange     '0.7.0',
+624 silly addNameRange     '0.7.1',
+624 silly addNameRange     '0.8.0',
+624 silly addNameRange     '0.8.1',
+624 silly addNameRange     '0.8.2' ] ]
+625 verbose addNamed [ 'debowerify', '0.7.1' ]
+626 verbose addNamed [ '0.7.1', '0.7.1' ]
+627 silly lockFile ad16fee1-debowerify-0-7-1 debowerify@0.7.1
+628 verbose lock debowerify@0.7.1 /Users/mathieudeumie/.npm/ad16fee1-debowerify-0-7-1.lock
+629 silly lockFile cdfbdade--debowerify-debowerify-0-7-1-tgz https://registry.npmjs.org/debowerify/-/debowerify-0.7.1.tgz
+630 verbose lock https://registry.npmjs.org/debowerify/-/debowerify-0.7.1.tgz /Users/mathieudeumie/.npm/cdfbdade--debowerify-debowerify-0-7-1-tgz.lock
+631 verbose addRemoteTarball [ 'https://registry.npmjs.org/debowerify/-/debowerify-0.7.1.tgz',
+631 verbose addRemoteTarball   'd605520442a7912e6d76545e0cc2c6bb03444445' ]
+632 info retry fetch attempt 1 at 22:03:58
+633 verbose fetch to= /var/folders/th/002s020s7p90068y4zd0d3p80000gp/T/npm-4765-BTRNf7_H/registry.npmjs.org/debowerify/-/debowerify-0.7.1.tgz
+634 http GET https://registry.npmjs.org/debowerify/-/debowerify-0.7.1.tgz
+635 http 304 https://registry.npmjs.org/gulp
+636 silly registry.get cb [ 304,
+636 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:56 GMT',
+636 silly registry.get     server: 'Apache',
+636 silly registry.get     via: '1.1 varnish',
+636 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:57 GMT',
+636 silly registry.get     'cache-control': 'max-age=60',
+636 silly registry.get     etag: '"4B2JMHMTDH4W22F5GVX56P6C0"',
+636 silly registry.get     'x-served-by': 'cache-ams4122-AMS',
+636 silly registry.get     'x-cache': 'HIT',
+636 silly registry.get     'x-cache-hits': '1',
+636 silly registry.get     'x-timer': 'S1412539436.394869,VS0,VE669',
+636 silly registry.get     vary: 'Accept',
+636 silly registry.get     'content-length': '0',
+636 silly registry.get     'keep-alive': 'timeout=10, max=48',
+636 silly registry.get     connection: 'Keep-Alive' } ]
+637 verbose etag https://registry.npmjs.org/gulp from cache
+638 http 304 https://registry.npmjs.org/bespoke-touch
+639 silly registry.get cb [ 304,
+639 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:56 GMT',
+639 silly registry.get     server: 'Apache',
+639 silly registry.get     via: '1.1 varnish',
+639 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:57 GMT',
+639 silly registry.get     'cache-control': 'max-age=60',
+639 silly registry.get     etag: '"7FZ5IPRTROGXXJSE086VRNRW9"',
+639 silly registry.get     'x-served-by': 'cache-ams4130-AMS',
+639 silly registry.get     'x-cache': 'MISS',
+639 silly registry.get     'x-cache-hits': '0',
+639 silly registry.get     'x-timer': 'S1412539436.380726,VS0,VE691',
+639 silly registry.get     vary: 'Accept',
+639 silly registry.get     'content-length': '0',
+639 silly registry.get     'keep-alive': 'timeout=10, max=49',
+639 silly registry.get     connection: 'Keep-Alive' } ]
+640 verbose etag https://registry.npmjs.org/bespoke-touch from cache
+641 silly addNameRange number 2 { name: 'gulp', range: '>=3.8.7-0 <4.0.0-0', hasData: true }
+642 silly addNameRange versions [ 'gulp',
+642 silly addNameRange   [ '0.0.1',
+642 silly addNameRange     '0.0.2',
+642 silly addNameRange     '0.0.3',
+642 silly addNameRange     '0.0.4',
+642 silly addNameRange     '0.0.5',
+642 silly addNameRange     '0.0.7',
+642 silly addNameRange     '0.0.8',
+642 silly addNameRange     '0.0.9',
+642 silly addNameRange     '0.1.0',
+642 silly addNameRange     '0.2.0',
+642 silly addNameRange     '1.0.0',
+642 silly addNameRange     '1.1.0',
+642 silly addNameRange     '1.2.0',
+642 silly addNameRange     '1.2.1',
+642 silly addNameRange     '2.0.0',
+642 silly addNameRange     '2.0.1',
+642 silly addNameRange     '2.1.0',
+642 silly addNameRange     '2.2.0',
+642 silly addNameRange     '2.3.0',
+642 silly addNameRange     '2.4.0',
+642 silly addNameRange     '2.4.1',
+642 silly addNameRange     '2.6.0',
+642 silly addNameRange     '2.6.1',
+642 silly addNameRange     '2.7.0',
+642 silly addNameRange     '3.0.0',
+642 silly addNameRange     '3.1.1',
+642 silly addNameRange     '3.1.2',
+642 silly addNameRange     '3.1.3',
+642 silly addNameRange     '3.1.4',
+642 silly addNameRange     '3.2.0',
+642 silly addNameRange     '3.2.1',
+642 silly addNameRange     '3.2.2',
+642 silly addNameRange     '3.2.3',
+642 silly addNameRange     '3.2.4',
+642 silly addNameRange     '3.2.5',
+642 silly addNameRange     '3.3.0',
+642 silly addNameRange     '3.3.1',
+642 silly addNameRange     '3.3.2',
+642 silly addNameRange     '3.3.4',
+642 silly addNameRange     '3.4.0',
+642 silly addNameRange     '3.5.0',
+642 silly addNameRange     '3.5.1',
+642 silly addNameRange     '3.5.2',
+642 silly addNameRange     '3.5.5',
+642 silly addNameRange     '3.5.6',
+642 silly addNameRange     '3.6.0',
+642 silly addNameRange     '3.6.1',
+642 silly addNameRange     '3.6.2',
+642 silly addNameRange     '3.7.0',
+642 silly addNameRange     '3.8.0',
+642 silly addNameRange     '3.8.1',
+642 silly addNameRange     '3.8.2',
+642 silly addNameRange     '3.8.3',
+642 silly addNameRange     '3.8.4',
+642 silly addNameRange     '3.8.5',
+642 silly addNameRange     '3.8.6',
+642 silly addNameRange     '3.8.7',
+642 silly addNameRange     '3.8.8' ] ]
+643 verbose addNamed [ 'gulp', '3.8.8' ]
+644 verbose addNamed [ '3.8.8', '3.8.8' ]
+645 silly lockFile 9f9512c0-gulp-3-8-8 gulp@3.8.8
+646 verbose lock gulp@3.8.8 /Users/mathieudeumie/.npm/9f9512c0-gulp-3-8-8.lock
+647 silly addNameRange number 2 { name: 'bespoke-touch',
+647 silly addNameRange   range: '>=1.0.0-0 <2.0.0-0',
+647 silly addNameRange   hasData: true }
+648 silly addNameRange versions [ 'bespoke-touch', [ '0.1.0', '1.0.0-beta', '1.0.0' ] ]
+649 verbose addNamed [ 'bespoke-touch', '1.0.0' ]
+650 verbose addNamed [ '1.0.0', '1.0.0' ]
+651 silly lockFile 454d03ac-bespoke-touch-1-0-0 bespoke-touch@1.0.0
+652 verbose lock bespoke-touch@1.0.0 /Users/mathieudeumie/.npm/454d03ac-bespoke-touch-1-0-0.lock
+653 silly lockFile 9f9512c0-gulp-3-8-8 gulp@3.8.8
+654 silly lockFile 9f9512c0-gulp-3-8-8 gulp@3.8.8
+655 silly lockFile 454d03ac-bespoke-touch-1-0-0 bespoke-touch@1.0.0
+656 silly lockFile 454d03ac-bespoke-touch-1-0-0 bespoke-touch@1.0.0
+657 silly lockFile f00a0921-gulp-3-8-7 gulp@^3.8.7
+658 silly lockFile f00a0921-gulp-3-8-7 gulp@^3.8.7
+659 silly lockFile 17137578-bespoke-touch-1-0-0 bespoke-touch@^1.0.0
+660 silly lockFile 17137578-bespoke-touch-1-0-0 bespoke-touch@^1.0.0
+661 http 200 https://registry.npmjs.org/gulp-autoprefixer
+662 silly registry.get cb [ 200,
+662 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:56 GMT',
+662 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+662 silly registry.get     etag: '"C3CMXLC8XEKII2IT2M4AOTKE5"',
+662 silly registry.get     'content-type': 'application/json',
+662 silly registry.get     'cache-control': 'max-age=60',
+662 silly registry.get     'content-length': '16502',
+662 silly registry.get     'accept-ranges': 'bytes',
+662 silly registry.get     via: '1.1 varnish',
+662 silly registry.get     age: '3213',
+662 silly registry.get     'x-served-by': 'cache-ams4126-AMS',
+662 silly registry.get     'x-cache': 'HIT',
+662 silly registry.get     'x-cache-hits': '1',
+662 silly registry.get     'x-timer': 'S1412539436.396292,VS0,VE384',
+662 silly registry.get     vary: 'Accept',
+662 silly registry.get     'keep-alive': 'timeout=10, max=48',
+662 silly registry.get     connection: 'Keep-Alive' } ]
+663 silly lockFile 29d44990-ixer-gulp-autoprefixer-0-0-7-tgz https://registry.npmjs.org/gulp-autoprefixer/-/gulp-autoprefixer-0.0.7.tgz
+664 verbose lock https://registry.npmjs.org/gulp-autoprefixer/-/gulp-autoprefixer-0.0.7.tgz /Users/mathieudeumie/.npm/29d44990-ixer-gulp-autoprefixer-0-0-7-tgz.lock
+665 verbose addRemoteTarball [ 'https://registry.npmjs.org/gulp-autoprefixer/-/gulp-autoprefixer-0.0.7.tgz',
+665 verbose addRemoteTarball   'e8b33a1b4b61deb1025d10675cc27e016855703f' ]
+666 info retry fetch attempt 1 at 22:03:58
+667 verbose fetch to= /var/folders/th/002s020s7p90068y4zd0d3p80000gp/T/npm-4765-BTRNf7_H/registry.npmjs.org/gulp-autoprefixer/-/gulp-autoprefixer-0.0.7.tgz
+668 http GET https://registry.npmjs.org/gulp-autoprefixer/-/gulp-autoprefixer-0.0.7.tgz
+669 http 304 https://registry.npmjs.org/gulp-csso
+670 silly registry.get cb [ 304,
+670 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:57 GMT',
+670 silly registry.get     server: 'Apache',
+670 silly registry.get     via: '1.1 varnish',
+670 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:57 GMT',
+670 silly registry.get     'cache-control': 'max-age=60',
+670 silly registry.get     etag: '"8YEAUQBY5LEKBHCLKFNSSZYS"',
+670 silly registry.get     'x-served-by': 'cache-ams4126-AMS',
+670 silly registry.get     'x-cache': 'MISS',
+670 silly registry.get     'x-cache-hits': '0',
+670 silly registry.get     'x-timer': 'S1412539437.240541,VS0,VE167',
+670 silly registry.get     vary: 'Accept',
+670 silly registry.get     'content-length': '0',
+670 silly registry.get     'keep-alive': 'timeout=10, max=48',
+670 silly registry.get     connection: 'Keep-Alive' } ]
+671 verbose etag https://registry.npmjs.org/gulp-csso from cache
+672 silly addNameRange number 2 { name: 'gulp-csso', range: '>=0.2.9-0 <0.3.0-0', hasData: true }
+673 silly addNameRange versions [ 'gulp-csso',
+673 silly addNameRange   [ '0.1.0',
+673 silly addNameRange     '0.1.1',
+673 silly addNameRange     '0.1.2',
+673 silly addNameRange     '0.1.3',
+673 silly addNameRange     '0.1.4',
+673 silly addNameRange     '0.1.5',
+673 silly addNameRange     '0.1.6',
+673 silly addNameRange     '0.1.7',
+673 silly addNameRange     '0.1.8',
+673 silly addNameRange     '0.2.0',
+673 silly addNameRange     '0.2.1',
+673 silly addNameRange     '0.2.2',
+673 silly addNameRange     '0.2.3',
+673 silly addNameRange     '0.2.4',
+673 silly addNameRange     '0.2.5',
+673 silly addNameRange     '0.2.6',
+673 silly addNameRange     '0.2.7',
+673 silly addNameRange     '0.2.8',
+673 silly addNameRange     '0.2.9' ] ]
+674 verbose addNamed [ 'gulp-csso', '0.2.9' ]
+675 verbose addNamed [ '0.2.9', '0.2.9' ]
+676 silly lockFile f21fa682-gulp-csso-0-2-9 gulp-csso@0.2.9
+677 verbose lock gulp-csso@0.2.9 /Users/mathieudeumie/.npm/f21fa682-gulp-csso-0-2-9.lock
+678 silly lockFile f21fa682-gulp-csso-0-2-9 gulp-csso@0.2.9
+679 silly lockFile f21fa682-gulp-csso-0-2-9 gulp-csso@0.2.9
+680 silly lockFile edaef1d5-gulp-csso-0-2-9 gulp-csso@^0.2.9
+681 silly lockFile edaef1d5-gulp-csso-0-2-9 gulp-csso@^0.2.9
+682 http 304 https://registry.npmjs.org/gulp-plumber
+683 silly registry.get cb [ 304,
+683 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:57 GMT',
+683 silly registry.get     server: 'Apache',
+683 silly registry.get     via: '1.1 varnish',
+683 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:57 GMT',
+683 silly registry.get     'cache-control': 'max-age=60',
+683 silly registry.get     etag: '"ACM237D8G1JCXG2JNW1GVS91I"',
+683 silly registry.get     'x-served-by': 'cache-ams4126-AMS',
+683 silly registry.get     'x-cache': 'HIT',
+683 silly registry.get     'x-cache-hits': '1',
+683 silly registry.get     'x-timer': 'S1412539437.284488,VS0,VE161',
+683 silly registry.get     vary: 'Accept',
+683 silly registry.get     'content-length': '0',
+683 silly registry.get     'keep-alive': 'timeout=10, max=47',
+683 silly registry.get     connection: 'Keep-Alive' } ]
+684 verbose etag https://registry.npmjs.org/gulp-plumber from cache
+685 silly addNameRange number 2 { name: 'gulp-plumber',
+685 silly addNameRange   range: '>=0.6.3-0 <0.7.0-0',
+685 silly addNameRange   hasData: true }
+686 silly addNameRange versions [ 'gulp-plumber',
+686 silly addNameRange   [ '0.0.1',
+686 silly addNameRange     '0.1.0',
+686 silly addNameRange     '0.2.0',
+686 silly addNameRange     '0.2.1',
+686 silly addNameRange     '0.2.3',
+686 silly addNameRange     '0.3.0',
+686 silly addNameRange     '0.4.0',
+686 silly addNameRange     '0.4.1',
+686 silly addNameRange     '0.5.0-rc1',
+686 silly addNameRange     '0.5.0',
+686 silly addNameRange     '0.5.1',
+686 silly addNameRange     '0.5.2',
+686 silly addNameRange     '0.5.3',
+686 silly addNameRange     '0.5.4',
+686 silly addNameRange     '0.5.5',
+686 silly addNameRange     '0.5.6',
+686 silly addNameRange     '0.6.0',
+686 silly addNameRange     '0.6.1',
+686 silly addNameRange     '0.6.2',
+686 silly addNameRange     '0.6.3',
+686 silly addNameRange     '0.6.4',
+686 silly addNameRange     '0.6.5',
+686 silly addNameRange     '0.6.6' ] ]
+687 verbose addNamed [ 'gulp-plumber', '0.6.6' ]
+688 verbose addNamed [ '0.6.6', '0.6.6' ]
+689 silly lockFile 696516d0-gulp-plumber-0-6-6 gulp-plumber@0.6.6
+690 verbose lock gulp-plumber@0.6.6 /Users/mathieudeumie/.npm/696516d0-gulp-plumber-0-6-6.lock
+691 silly lockFile 696516d0-gulp-plumber-0-6-6 gulp-plumber@0.6.6
+692 silly lockFile 696516d0-gulp-plumber-0-6-6 gulp-plumber@0.6.6
+693 silly lockFile 1eec61fa-gulp-plumber-0-6-3 gulp-plumber@^0.6.3
+694 silly lockFile 1eec61fa-gulp-plumber-0-6-3 gulp-plumber@^0.6.3
+695 http 304 https://registry.npmjs.org/gulp-connect
+696 silly registry.get cb [ 304,
+696 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:57 GMT',
+696 silly registry.get     server: 'Apache',
+696 silly registry.get     via: '1.1 varnish',
+696 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:57 GMT',
+696 silly registry.get     'cache-control': 'max-age=60',
+696 silly registry.get     etag: '"8BAR72JCOMFFRMWW8FLI66ZE6"',
+696 silly registry.get     'x-served-by': 'cache-ams4122-AMS',
+696 silly registry.get     'x-cache': 'HIT',
+696 silly registry.get     'x-cache-hits': '1',
+696 silly registry.get     'x-timer': 'S1412539437.252312,VS0,VE373',
+696 silly registry.get     vary: 'Accept',
+696 silly registry.get     'content-length': '0',
+696 silly registry.get     'keep-alive': 'timeout=10, max=47',
+696 silly registry.get     connection: 'Keep-Alive' } ]
+697 verbose etag https://registry.npmjs.org/gulp-connect from cache
+698 silly addNameRange number 2 { name: 'gulp-connect',
+698 silly addNameRange   range: '>=2.0.5-0 <3.0.0-0',
+698 silly addNameRange   hasData: true }
+699 silly addNameRange versions [ 'gulp-connect',
+699 silly addNameRange   [ '0.0.1',
+699 silly addNameRange     '0.1.1',
+699 silly addNameRange     '0.1.2',
+699 silly addNameRange     '0.1.3',
+699 silly addNameRange     '0.1.4',
+699 silly addNameRange     '0.1.5',
+699 silly addNameRange     '0.1.6',
+699 silly addNameRange     '0.2.0',
+699 silly addNameRange     '0.3.0',
+699 silly addNameRange     '0.3.1',
+699 silly addNameRange     '0.4.0',
+699 silly addNameRange     '0.5.0',
+699 silly addNameRange     '0.6.0',
+699 silly addNameRange     '0.7.0',
+699 silly addNameRange     '0.8.0',
+699 silly addNameRange     '0.9.0',
+699 silly addNameRange     '1.0.0',
+699 silly addNameRange     '1.0.1',
+699 silly addNameRange     '1.0.2',
+699 silly addNameRange     '1.0.3',
+699 silly addNameRange     '1.0.4',
+699 silly addNameRange     '1.0.5',
+699 silly addNameRange     '1.0.6',
+699 silly addNameRange     '1.0.7',
+699 silly addNameRange     '1.0.9',
+699 silly addNameRange     '1.0.10',
+699 silly addNameRange     '1.1.0',
+699 silly addNameRange     '1.1.1',
+699 silly addNameRange     '2.0.0',
+699 silly addNameRange     '2.0.1',
+699 silly addNameRange     '2.0.2',
+699 silly addNameRange     '2.0.3',
+699 silly addNameRange     '2.0.4',
+699 silly addNameRange     '2.0.5',
+699 silly addNameRange     '2.0.6' ] ]
+700 verbose addNamed [ 'gulp-connect', '2.0.6' ]
+701 verbose addNamed [ '2.0.6', '2.0.6' ]
+702 silly lockFile c3b45804-gulp-connect-2-0-6 gulp-connect@2.0.6
+703 verbose lock gulp-connect@2.0.6 /Users/mathieudeumie/.npm/c3b45804-gulp-connect-2-0-6.lock
+704 silly lockFile c3b45804-gulp-connect-2-0-6 gulp-connect@2.0.6
+705 silly lockFile c3b45804-gulp-connect-2-0-6 gulp-connect@2.0.6
+706 silly lockFile 2696f549-gulp-connect-2-0-5 gulp-connect@^2.0.5
+707 silly lockFile 2696f549-gulp-connect-2-0-5 gulp-connect@^2.0.5
+708 http 304 https://registry.npmjs.org/gulp-browserify
+709 silly registry.get cb [ 304,
+709 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:57 GMT',
+709 silly registry.get     server: 'Apache',
+709 silly registry.get     via: '1.1 varnish',
+709 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:57 GMT',
+709 silly registry.get     'cache-control': 'max-age=60',
+709 silly registry.get     etag: '"5HH5OQUWWYG2P844P3XT84QGH"',
+709 silly registry.get     'x-served-by': 'cache-ams4133-AMS',
+709 silly registry.get     'x-cache': 'HIT',
+709 silly registry.get     'x-cache-hits': '1',
+709 silly registry.get     'x-timer': 'S1412539437.156290,VS0,VE670',
+709 silly registry.get     vary: 'Accept',
+709 silly registry.get     'content-length': '0',
+709 silly registry.get     'keep-alive': 'timeout=10, max=47',
+709 silly registry.get     connection: 'Keep-Alive' } ]
+710 verbose etag https://registry.npmjs.org/gulp-browserify from cache
+711 silly addNameRange number 2 { name: 'gulp-browserify',
+711 silly addNameRange   range: '>=0.5.0-0 <0.6.0-0',
+711 silly addNameRange   hasData: true }
+712 silly addNameRange versions [ 'gulp-browserify',
+712 silly addNameRange   [ '0.1.0',
+712 silly addNameRange     '0.1.1',
+712 silly addNameRange     '0.1.2',
+712 silly addNameRange     '0.2.2',
+712 silly addNameRange     '0.2.3',
+712 silly addNameRange     '0.2.4',
+712 silly addNameRange     '0.2.5',
+712 silly addNameRange     '0.2.6',
+712 silly addNameRange     '0.2.7',
+712 silly addNameRange     '0.3.0',
+712 silly addNameRange     '0.3.1',
+712 silly addNameRange     '0.3.2',
+712 silly addNameRange     '0.3.3',
+712 silly addNameRange     '0.3.4',
+712 silly addNameRange     '0.4.0',
+712 silly addNameRange     '0.4.1',
+712 silly addNameRange     '0.4.2',
+712 silly addNameRange     '0.4.3',
+712 silly addNameRange     '0.4.4',
+712 silly addNameRange     '0.4.5',
+712 silly addNameRange     '0.4.6',
+712 silly addNameRange     '0.5.0' ] ]
+713 verbose addNamed [ 'gulp-browserify', '0.5.0' ]
+714 verbose addNamed [ '0.5.0', '0.5.0' ]
+715 silly lockFile 29ca95c5-gulp-browserify-0-5-0 gulp-browserify@0.5.0
+716 verbose lock gulp-browserify@0.5.0 /Users/mathieudeumie/.npm/29ca95c5-gulp-browserify-0-5-0.lock
+717 silly lockFile 29ca95c5-gulp-browserify-0-5-0 gulp-browserify@0.5.0
+718 silly lockFile 29ca95c5-gulp-browserify-0-5-0 gulp-browserify@0.5.0
+719 silly lockFile e60463ea-gulp-browserify-0-5-0 gulp-browserify@^0.5.0
+720 silly lockFile e60463ea-gulp-browserify-0-5-0 gulp-browserify@^0.5.0
+721 http 304 https://registry.npmjs.org/gulp-jade
+722 silly registry.get cb [ 304,
+722 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:57 GMT',
+722 silly registry.get     server: 'Apache',
+722 silly registry.get     via: '1.1 varnish',
+722 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:57 GMT',
+722 silly registry.get     'cache-control': 'max-age=60',
+722 silly registry.get     etag: '"1BVDCKOIYXC2A4CUFZS5UR3PN"',
+722 silly registry.get     'x-served-by': 'cache-ams4130-AMS',
+722 silly registry.get     'x-cache': 'MISS',
+722 silly registry.get     'x-cache-hits': '0',
+722 silly registry.get     'x-timer': 'S1412539437.266849,VS0,VE679',
+722 silly registry.get     vary: 'Accept',
+722 silly registry.get     'content-length': '0',
+722 silly registry.get     'keep-alive': 'timeout=10, max=48',
+722 silly registry.get     connection: 'Keep-Alive' } ]
+723 verbose etag https://registry.npmjs.org/gulp-jade from cache
+724 silly addNameRange number 2 { name: 'gulp-jade', range: '>=0.6.0-0 <0.7.0-0', hasData: true }
+725 silly addNameRange versions [ 'gulp-jade',
+725 silly addNameRange   [ '0.0.1',
+725 silly addNameRange     '0.0.2',
+725 silly addNameRange     '0.0.3',
+725 silly addNameRange     '0.1.0',
+725 silly addNameRange     '0.2.0',
+725 silly addNameRange     '0.3.0',
+725 silly addNameRange     '0.4.0',
+725 silly addNameRange     '0.4.1',
+725 silly addNameRange     '0.4.2',
+725 silly addNameRange     '0.5.0',
+725 silly addNameRange     '0.6.0',
+725 silly addNameRange     '0.6.1',
+725 silly addNameRange     '0.7.0',
+725 silly addNameRange     '0.8.0' ] ]
+726 verbose addNamed [ 'gulp-jade', '0.6.1' ]
+727 verbose addNamed [ '0.6.1', '0.6.1' ]
+728 silly lockFile 6f661a3b-gulp-jade-0-6-1 gulp-jade@0.6.1
+729 verbose lock gulp-jade@0.6.1 /Users/mathieudeumie/.npm/6f661a3b-gulp-jade-0-6-1.lock
+730 silly lockFile 6f661a3b-gulp-jade-0-6-1 gulp-jade@0.6.1
+731 silly lockFile 6f661a3b-gulp-jade-0-6-1 gulp-jade@0.6.1
+732 silly lockFile f9d2f285-gulp-jade-0-6-0 gulp-jade@^0.6.0
+733 silly lockFile f9d2f285-gulp-jade-0-6-0 gulp-jade@^0.6.0
+734 http 200 https://registry.npmjs.org/gulp-autoprefixer/-/gulp-autoprefixer-0.0.7.tgz
+735 silly lockFile 29d44990-ixer-gulp-autoprefixer-0-0-7-tgz https://registry.npmjs.org/gulp-autoprefixer/-/gulp-autoprefixer-0.0.7.tgz
+736 silly lockFile 29d44990-ixer-gulp-autoprefixer-0-0-7-tgz https://registry.npmjs.org/gulp-autoprefixer/-/gulp-autoprefixer-0.0.7.tgz
+737 silly lockFile 48cacbeb-gulp-autoprefixer-0-0-7 gulp-autoprefixer@0.0.7
+738 silly lockFile 48cacbeb-gulp-autoprefixer-0-0-7 gulp-autoprefixer@0.0.7
+739 http 304 https://registry.npmjs.org/gulp-util
+740 silly registry.get cb [ 304,
+740 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:58 GMT',
+740 silly registry.get     server: 'Apache',
+740 silly registry.get     via: '1.1 varnish',
+740 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:58 GMT',
+740 silly registry.get     'cache-control': 'max-age=60',
+740 silly registry.get     etag: '"25D2R2FQSCD9H68SGK59EJL7B"',
+740 silly registry.get     'x-served-by': 'cache-ams4130-AMS',
+740 silly registry.get     'x-cache': 'HIT',
+740 silly registry.get     'x-cache-hits': '1',
+740 silly registry.get     'x-timer': 'S1412539438.062256,VS0,VE90',
+740 silly registry.get     vary: 'Accept',
+740 silly registry.get     'content-length': '0',
+740 silly registry.get     'keep-alive': 'timeout=10, max=47',
+740 silly registry.get     connection: 'Keep-Alive' } ]
+741 verbose etag https://registry.npmjs.org/gulp-util from cache
+742 silly addNameRange number 2 { name: 'gulp-util',
+742 silly addNameRange   range: '>=2.2.17-0 <3.0.0-0',
+742 silly addNameRange   hasData: true }
+743 silly addNameRange versions [ 'gulp-util',
+743 silly addNameRange   [ '0.0.1',
+743 silly addNameRange     '1.0.0',
+743 silly addNameRange     '1.1.0',
+743 silly addNameRange     '1.1.1',
+743 silly addNameRange     '1.2.0',
+743 silly addNameRange     '1.3.0',
+743 silly addNameRange     '2.0.0',
+743 silly addNameRange     '2.1.1',
+743 silly addNameRange     '2.1.2',
+743 silly addNameRange     '2.1.3',
+743 silly addNameRange     '2.1.4',
+743 silly addNameRange     '2.2.0',
+743 silly addNameRange     '2.2.1',
+743 silly addNameRange     '2.2.2',
+743 silly addNameRange     '2.2.3',
+743 silly addNameRange     '2.2.5',
+743 silly addNameRange     '2.2.6',
+743 silly addNameRange     '2.2.7',
+743 silly addNameRange     '2.2.8',
+743 silly addNameRange     '2.2.9',
+743 silly addNameRange     '2.2.10',
+743 silly addNameRange     '2.2.11',
+743 silly addNameRange     '2.2.12',
+743 silly addNameRange     '2.2.13',
+743 silly addNameRange     '2.2.14',
+743 silly addNameRange     '2.2.15',
+743 silly addNameRange     '2.2.16',
+743 silly addNameRange     '2.2.17',
+743 silly addNameRange     '2.2.18',
+743 silly addNameRange     '2.2.19',
+743 silly addNameRange     '2.2.20',
+743 silly addNameRange     '3.0.0',
+743 silly addNameRange     '3.0.1' ] ]
+744 verbose addNamed [ 'gulp-util', '2.2.20' ]
+745 verbose addNamed [ '2.2.20', '2.2.20' ]
+746 silly lockFile 48c194cb-gulp-util-2-2-20 gulp-util@2.2.20
+747 verbose lock gulp-util@2.2.20 /Users/mathieudeumie/.npm/48c194cb-gulp-util-2-2-20.lock
+748 silly lockFile 34166e88-g-gulp-util-gulp-util-2-2-20-tgz https://registry.npmjs.org/gulp-util/-/gulp-util-2.2.20.tgz
+749 verbose lock https://registry.npmjs.org/gulp-util/-/gulp-util-2.2.20.tgz /Users/mathieudeumie/.npm/34166e88-g-gulp-util-gulp-util-2-2-20-tgz.lock
+750 verbose addRemoteTarball [ 'https://registry.npmjs.org/gulp-util/-/gulp-util-2.2.20.tgz',
+750 verbose addRemoteTarball   'd7146e5728910bd8f047a6b0b1e549bc22dbd64c' ]
+751 info retry fetch attempt 1 at 22:03:59
+752 verbose fetch to= /var/folders/th/002s020s7p90068y4zd0d3p80000gp/T/npm-4765-BTRNf7_H/registry.npmjs.org/gulp-util/-/gulp-util-2.2.20.tgz
+753 http GET https://registry.npmjs.org/gulp-util/-/gulp-util-2.2.20.tgz
+754 http 304 https://registry.npmjs.org/gulp-uglify
+755 silly registry.get cb [ 304,
+755 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:57 GMT',
+755 silly registry.get     server: 'Apache',
+755 silly registry.get     via: '1.1 varnish',
+755 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:58 GMT',
+755 silly registry.get     'cache-control': 'max-age=60',
+755 silly registry.get     etag: '"8I7DT6UM02ABKFA1RZDE9WVOJ"',
+755 silly registry.get     'x-served-by': 'cache-ams4122-AMS',
+755 silly registry.get     'x-cache': 'HIT',
+755 silly registry.get     'x-cache-hits': '1',
+755 silly registry.get     'x-timer': 'S1412539437.843154,VS0,VE370',
+755 silly registry.get     vary: 'Accept',
+755 silly registry.get     'content-length': '0',
+755 silly registry.get     'keep-alive': 'timeout=10, max=46',
+755 silly registry.get     connection: 'Keep-Alive' } ]
+756 verbose etag https://registry.npmjs.org/gulp-uglify from cache
+757 silly addNameRange number 2 { name: 'gulp-uglify',
+757 silly addNameRange   range: '>=0.3.1-0 <0.4.0-0',
+757 silly addNameRange   hasData: true }
+758 silly addNameRange versions [ 'gulp-uglify',
+758 silly addNameRange   [ '0.0.1',
+758 silly addNameRange     '0.0.3',
+758 silly addNameRange     '0.0.4',
+758 silly addNameRange     '0.1.0',
+758 silly addNameRange     '0.2.0',
+758 silly addNameRange     '0.2.1',
+758 silly addNameRange     '0.3.0',
+758 silly addNameRange     '0.3.1',
+758 silly addNameRange     '0.3.2',
+758 silly addNameRange     '1.0.0-0',
+758 silly addNameRange     '1.0.0',
+758 silly addNameRange     '1.0.1' ] ]
+759 verbose addNamed [ 'gulp-uglify', '0.3.2' ]
+760 verbose addNamed [ '0.3.2', '0.3.2' ]
+761 silly lockFile f09d4441-gulp-uglify-0-3-2 gulp-uglify@0.3.2
+762 verbose lock gulp-uglify@0.3.2 /Users/mathieudeumie/.npm/f09d4441-gulp-uglify-0-3-2.lock
+763 silly lockFile f09d4441-gulp-uglify-0-3-2 gulp-uglify@0.3.2
+764 silly lockFile f09d4441-gulp-uglify-0-3-2 gulp-uglify@0.3.2
+765 silly lockFile 965066dc-gulp-uglify-0-3-1 gulp-uglify@^0.3.1
+766 silly lockFile 965066dc-gulp-uglify-0-3-1 gulp-uglify@^0.3.1
+767 http 304 https://registry.npmjs.org/through
+768 silly registry.get cb [ 304,
+768 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:58 GMT',
+768 silly registry.get     server: 'Apache',
+768 silly registry.get     via: '1.1 varnish',
+768 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:58 GMT',
+768 silly registry.get     'cache-control': 'max-age=60',
+768 silly registry.get     etag: '"B2LULHX4BMRQKA6MKU406OG80"',
+768 silly registry.get     'x-served-by': 'cache-ams4122-AMS',
+768 silly registry.get     'x-cache': 'HIT',
+768 silly registry.get     'x-cache-hits': '1',
+768 silly registry.get     'x-timer': 'S1412539438.336160,VS0,VE0',
+768 silly registry.get     vary: 'Accept',
+768 silly registry.get     'content-length': '0',
+768 silly registry.get     'keep-alive': 'timeout=10, max=45',
+768 silly registry.get     connection: 'Keep-Alive' } ]
+769 verbose etag https://registry.npmjs.org/through from cache
+770 http 304 https://registry.npmjs.org/gulp-rename
+771 silly registry.get cb [ 304,
+771 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:57 GMT',
+771 silly registry.get     server: 'Apache',
+771 silly registry.get     via: '1.1 varnish',
+771 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:58 GMT',
+771 silly registry.get     'cache-control': 'max-age=60',
+771 silly registry.get     etag: '"AJ9B02QH2RJYSPJAV1TFIIC37"',
+771 silly registry.get     'x-served-by': 'cache-ams4126-AMS',
+771 silly registry.get     'x-cache': 'HIT',
+771 silly registry.get     'x-cache-hits': '1',
+771 silly registry.get     'x-timer': 'S1412539437.651822,VS0,VE683',
+771 silly registry.get     vary: 'Accept',
+771 silly registry.get     'content-length': '0',
+771 silly registry.get     'keep-alive': 'timeout=10, max=47',
+771 silly registry.get     connection: 'Keep-Alive' } ]
+772 verbose etag https://registry.npmjs.org/gulp-rename from cache
+773 http 304 https://registry.npmjs.org/gulp-rimraf
+774 silly registry.get cb [ 304,
+774 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:57 GMT',
+774 silly registry.get     server: 'Apache',
+774 silly registry.get     via: '1.1 varnish',
+774 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:58 GMT',
+774 silly registry.get     'cache-control': 'max-age=60',
+774 silly registry.get     etag: '"2TUHKK3K4EFR550LJB3ZPPLDH"',
+774 silly registry.get     'x-served-by': 'cache-ams4126-AMS',
+774 silly registry.get     'x-cache': 'HIT',
+774 silly registry.get     'x-cache-hits': '1',
+774 silly registry.get     'x-timer': 'S1412539437.685600,VS0,VE678',
+774 silly registry.get     vary: 'Accept',
+774 silly registry.get     'content-length': '0',
+774 silly registry.get     'keep-alive': 'timeout=10, max=46',
+774 silly registry.get     connection: 'Keep-Alive' } ]
+775 verbose etag https://registry.npmjs.org/gulp-rimraf from cache
+776 silly addNameRange number 2 { name: 'gulp-rename',
+776 silly addNameRange   range: '>=1.2.0-0 <2.0.0-0',
+776 silly addNameRange   hasData: true }
+777 silly addNameRange versions [ 'gulp-rename',
+777 silly addNameRange   [ '0.1.0', '0.2.1', '0.2.2', '1.0.0', '1.1.0', '1.2.0' ] ]
+778 verbose addNamed [ 'gulp-rename', '1.2.0' ]
+779 verbose addNamed [ '1.2.0', '1.2.0' ]
+780 silly lockFile 5981c611-gulp-rename-1-2-0 gulp-rename@1.2.0
+781 verbose lock gulp-rename@1.2.0 /Users/mathieudeumie/.npm/5981c611-gulp-rename-1-2-0.lock
+782 silly addNameRange number 2 { name: 'gulp-rimraf',
+782 silly addNameRange   range: '>=0.1.0-0 <0.2.0-0',
+782 silly addNameRange   hasData: true }
+783 silly addNameRange versions [ 'gulp-rimraf',
+783 silly addNameRange   [ '0.0.1',
+783 silly addNameRange     '0.0.2',
+783 silly addNameRange     '0.0.3',
+783 silly addNameRange     '0.0.4',
+783 silly addNameRange     '0.0.5',
+783 silly addNameRange     '0.0.6',
+783 silly addNameRange     '0.0.7',
+783 silly addNameRange     '0.0.8',
+783 silly addNameRange     '0.0.9',
+783 silly addNameRange     '0.0.10',
+783 silly addNameRange     '0.1.0',
+783 silly addNameRange     '0.1.1' ] ]
+784 verbose addNamed [ 'gulp-rimraf', '0.1.1' ]
+785 verbose addNamed [ '0.1.1', '0.1.1' ]
+786 silly lockFile 3dd822d6-gulp-rimraf-0-1-1 gulp-rimraf@0.1.1
+787 verbose lock gulp-rimraf@0.1.1 /Users/mathieudeumie/.npm/3dd822d6-gulp-rimraf-0-1-1.lock
+788 silly addNameRange number 2 { name: 'through', range: '>=2.3.4-0 <3.0.0-0', hasData: true }
+789 silly addNameRange versions [ 'through',
+789 silly addNameRange   [ '0.0.1',
+789 silly addNameRange     '0.0.2',
+789 silly addNameRange     '0.0.3',
+789 silly addNameRange     '0.0.4',
+789 silly addNameRange     '0.1.0',
+789 silly addNameRange     '0.1.1',
+789 silly addNameRange     '0.1.2',
+789 silly addNameRange     '0.1.3',
+789 silly addNameRange     '0.1.4',
+789 silly addNameRange     '1.0.0',
+789 silly addNameRange     '1.1.0',
+789 silly addNameRange     '1.1.1',
+789 silly addNameRange     '1.1.2',
+789 silly addNameRange     '2.0.0',
+789 silly addNameRange     '2.1.0',
+789 silly addNameRange     '2.2.0',
+789 silly addNameRange     '2.2.1',
+789 silly addNameRange     '2.2.2',
+789 silly addNameRange     '2.2.4',
+789 silly addNameRange     '2.2.5',
+789 silly addNameRange     '2.2.6',
+789 silly addNameRange     '2.2.7',
+789 silly addNameRange     '2.3.1',
+789 silly addNameRange     '2.3.2',
+789 silly addNameRange     '2.3.3',
+789 silly addNameRange     '2.3.4',
+789 silly addNameRange     '2.3.6' ] ]
+790 verbose addNamed [ 'through', '2.3.6' ]
+791 verbose addNamed [ '2.3.6', '2.3.6' ]
+792 silly lockFile d0d0b722-through-2-3-6 through@2.3.6
+793 verbose lock through@2.3.6 /Users/mathieudeumie/.npm/d0d0b722-through-2-3-6.lock
+794 warn deprecated gulp-rimraf@0.1.1: Use npmjs.org/del instead, see https://github.com/gulpjs/gulp/blob/master/docs/recipes/delete-files-folder.md
+795 silly lockFile 5981c611-gulp-rename-1-2-0 gulp-rename@1.2.0
+796 silly lockFile 5981c611-gulp-rename-1-2-0 gulp-rename@1.2.0
+797 silly lockFile 3dd822d6-gulp-rimraf-0-1-1 gulp-rimraf@0.1.1
+798 silly lockFile 3dd822d6-gulp-rimraf-0-1-1 gulp-rimraf@0.1.1
+799 silly lockFile d0d0b722-through-2-3-6 through@2.3.6
+800 silly lockFile d0d0b722-through-2-3-6 through@2.3.6
+801 silly lockFile 31cef36d-gulp-rename-1-2-0 gulp-rename@^1.2.0
+802 silly lockFile 31cef36d-gulp-rename-1-2-0 gulp-rename@^1.2.0
+803 silly lockFile 69b252c5-gulp-rimraf-0-1-0 gulp-rimraf@^0.1.0
+804 silly lockFile 69b252c5-gulp-rimraf-0-1-0 gulp-rimraf@^0.1.0
+805 silly lockFile 4a17867e-through-2-3-4 through@^2.3.4
+806 silly lockFile 4a17867e-through-2-3-4 through@^2.3.4
+807 http 304 https://registry.npmjs.org/opn
+808 silly registry.get cb [ 304,
+808 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:58 GMT',
+808 silly registry.get     server: 'Apache',
+808 silly registry.get     via: '1.1 varnish',
+808 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:58 GMT',
+808 silly registry.get     'cache-control': 'max-age=60',
+808 silly registry.get     etag: '"4A4UQ6UPG2BHS80KERMNYH4HX"',
+808 silly registry.get     'x-served-by': 'cache-ams4122-AMS',
+808 silly registry.get     'x-cache': 'HIT',
+808 silly registry.get     'x-cache-hits': '1',
+808 silly registry.get     'x-timer': 'S1412539438.582087,VS0,VE0',
+808 silly registry.get     vary: 'Accept',
+808 silly registry.get     'content-length': '0',
+808 silly registry.get     'keep-alive': 'timeout=10, max=44',
+808 silly registry.get     connection: 'Keep-Alive' } ]
+809 verbose etag https://registry.npmjs.org/opn from cache
+810 silly addNameRange number 2 { name: 'opn', range: '>=0.1.2-0 <0.2.0-0', hasData: true }
+811 silly addNameRange versions [ 'opn', [ '0.1.0', '0.1.1', '0.1.2', '1.0.0' ] ]
+812 verbose addNamed [ 'opn', '0.1.2' ]
+813 verbose addNamed [ '0.1.2', '0.1.2' ]
+814 silly lockFile 976bcbd2-opn-0-1-2 opn@0.1.2
+815 verbose lock opn@0.1.2 /Users/mathieudeumie/.npm/976bcbd2-opn-0-1-2.lock
+816 silly lockFile 976bcbd2-opn-0-1-2 opn@0.1.2
+817 silly lockFile 976bcbd2-opn-0-1-2 opn@0.1.2
+818 silly lockFile 12270387-opn-0-1-2 opn@^0.1.2
+819 silly lockFile 12270387-opn-0-1-2 opn@^0.1.2
+820 http 200 https://registry.npmjs.org/gulp-util/-/gulp-util-2.2.20.tgz
+821 silly lockFile 34166e88-g-gulp-util-gulp-util-2-2-20-tgz https://registry.npmjs.org/gulp-util/-/gulp-util-2.2.20.tgz
+822 silly lockFile 34166e88-g-gulp-util-gulp-util-2-2-20-tgz https://registry.npmjs.org/gulp-util/-/gulp-util-2.2.20.tgz
+823 silly lockFile 48c194cb-gulp-util-2-2-20 gulp-util@2.2.20
+824 silly lockFile 48c194cb-gulp-util-2-2-20 gulp-util@2.2.20
+825 silly lockFile 4e4727d9-gulp-util-2-2-17 gulp-util@^2.2.17
+826 silly lockFile 4e4727d9-gulp-util-2-2-17 gulp-util@^2.2.17
+827 http 200 https://registry.npmjs.org/gulp-stylus
+828 silly registry.get cb [ 200,
+828 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:58 GMT',
+828 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+828 silly registry.get     etag: '"24FXDWZA94OMIHGQZIUD5Z8GT"',
+828 silly registry.get     'content-type': 'application/json',
+828 silly registry.get     'cache-control': 'max-age=60',
+828 silly registry.get     'content-length': '35203',
+828 silly registry.get     'accept-ranges': 'bytes',
+828 silly registry.get     via: '1.1 varnish',
+828 silly registry.get     age: '4045',
+828 silly registry.get     'x-served-by': 'cache-ams4133-AMS',
+828 silly registry.get     'x-cache': 'MISS',
+828 silly registry.get     'x-cache-hits': '0',
+828 silly registry.get     'x-timer': 'S1412539438.036071,VS0,VE378',
+828 silly registry.get     vary: 'Accept',
+828 silly registry.get     'keep-alive': 'timeout=10, max=46',
+828 silly registry.get     connection: 'Keep-Alive' } ]
+829 silly addNameRange number 2 { name: 'gulp-stylus',
+829 silly addNameRange   range: '>=1.0.2-0 <2.0.0-0',
+829 silly addNameRange   hasData: true }
+830 silly addNameRange versions [ 'gulp-stylus',
+830 silly addNameRange   [ '0.0.2',
+830 silly addNameRange     '0.0.3',
+830 silly addNameRange     '0.0.4',
+830 silly addNameRange     '0.0.5',
+830 silly addNameRange     '0.0.7',
+830 silly addNameRange     '0.0.9',
+830 silly addNameRange     '0.0.10',
+830 silly addNameRange     '0.0.11',
+830 silly addNameRange     '0.0.12',
+830 silly addNameRange     '0.0.13',
+830 silly addNameRange     '0.0.14',
+830 silly addNameRange     '0.1.0',
+830 silly addNameRange     '0.2.0',
+830 silly addNameRange     '0.2.1',
+830 silly addNameRange     '1.0.0',
+830 silly addNameRange     '1.0.1',
+830 silly addNameRange     '1.0.2',
+830 silly addNameRange     '1.0.3',
+830 silly addNameRange     '1.0.4',
+830 silly addNameRange     '1.0.5',
+830 silly addNameRange     '1.1.0',
+830 silly addNameRange     '1.3.0',
+830 silly addNameRange     '1.3.2',
+830 silly addNameRange     '1.3.3' ] ]
+831 verbose addNamed [ 'gulp-stylus', '1.3.3' ]
+832 verbose addNamed [ '1.3.3', '1.3.3' ]
+833 silly lockFile f9c51909-gulp-stylus-1-3-3 gulp-stylus@1.3.3
+834 verbose lock gulp-stylus@1.3.3 /Users/mathieudeumie/.npm/f9c51909-gulp-stylus-1-3-3.lock
+835 silly lockFile f9c51909-gulp-stylus-1-3-3 gulp-stylus@1.3.3
+836 silly lockFile f9c51909-gulp-stylus-1-3-3 gulp-stylus@1.3.3
+837 silly lockFile 31501a5a-gulp-stylus-1-0-2 gulp-stylus@^1.0.2
+838 silly lockFile 31501a5a-gulp-stylus-1-0-2 gulp-stylus@^1.0.2
+839 http 200 https://registry.npmjs.org/debowerify/-/debowerify-0.7.1.tgz
+840 silly lockFile cdfbdade--debowerify-debowerify-0-7-1-tgz https://registry.npmjs.org/debowerify/-/debowerify-0.7.1.tgz
+841 silly lockFile cdfbdade--debowerify-debowerify-0-7-1-tgz https://registry.npmjs.org/debowerify/-/debowerify-0.7.1.tgz
+842 silly lockFile ad16fee1-debowerify-0-7-1 debowerify@0.7.1
+843 silly lockFile ad16fee1-debowerify-0-7-1 debowerify@0.7.1
+844 silly lockFile 0a58e2fc-debowerify-0-7-1 debowerify@^0.7.1
+845 silly lockFile 0a58e2fc-debowerify-0-7-1 debowerify@^0.7.1
+846 http 304 https://registry.npmjs.org/insert-css
+847 silly registry.get cb [ 304,
+847 silly registry.get   { date: 'Sun, 05 Oct 2014 20:03:58 GMT',
+847 silly registry.get     server: 'Apache',
+847 silly registry.get     via: '1.1 varnish',
+847 silly registry.get     'last-modified': 'Sun, 05 Oct 2014 20:03:58 GMT',
+847 silly registry.get     'cache-control': 'max-age=60',
+847 silly registry.get     etag: '"AFDLTP20JWUAEF5DZM5VKTY3Z"',
+847 silly registry.get     'x-served-by': 'cache-ams4130-AMS',
+847 silly registry.get     'x-cache': 'MISS',
+847 silly registry.get     'x-cache-hits': '0',
+847 silly registry.get     'x-timer': 'S1412539438.190285,VS0,VE667',
+847 silly registry.get     vary: 'Accept',
+847 silly registry.get     'content-length': '0',
+847 silly registry.get     'keep-alive': 'timeout=10, max=46',
+847 silly registry.get     connection: 'Keep-Alive' } ]
+848 verbose etag https://registry.npmjs.org/insert-css from cache
+849 silly addNameRange number 2 { name: 'insert-css',
+849 silly addNameRange   range: '>=0.2.0-0 <0.3.0-0',
+849 silly addNameRange   hasData: true }
+850 silly addNameRange versions [ 'insert-css', [ '0.0.0', '0.1.0', '0.1.1', '0.2.0' ] ]
+851 verbose addNamed [ 'insert-css', '0.2.0' ]
+852 verbose addNamed [ '0.2.0', '0.2.0' ]
+853 silly lockFile 447cdd31-insert-css-0-2-0 insert-css@0.2.0
+854 verbose lock insert-css@0.2.0 /Users/mathieudeumie/.npm/447cdd31-insert-css-0-2-0.lock
+855 silly lockFile 447cdd31-insert-css-0-2-0 insert-css@0.2.0
+856 silly lockFile 447cdd31-insert-css-0-2-0 insert-css@0.2.0
+857 silly lockFile 5c38adff-insert-css-0-2-0 insert-css@^0.2.0
+858 silly lockFile 5c38adff-insert-css-0-2-0 insert-css@^0.2.0
+859 error Error: EACCES, mkdir '/Users/mathieudeumie/.npm/gulp-util/2.2.20'
+859 error  { [Error: EACCES, mkdir '/Users/mathieudeumie/.npm/gulp-util/2.2.20']
+859 error   errno: 3,
+859 error   code: 'EACCES',
+859 error   path: '/Users/mathieudeumie/.npm/gulp-util/2.2.20',
+859 error   parent: 'presentation-soutenance-ei5' }
+860 error Please try running this command again as root/Administrator.
+861 error System Darwin 13.4.0
+862 error command "node" "/usr/local/bin/npm" "install"
+863 error cwd /Users/mathieudeumie/Projets/Github/Bespoke
+864 error node -v v0.10.32
+865 error npm -v 1.4.28
+866 error path /Users/mathieudeumie/.npm/gulp-util/2.2.20
+867 error code EACCES
+868 error errno 3
+869 error stack Error: EACCES, mkdir '/Users/mathieudeumie/.npm/gulp-util/2.2.20'
+870 verbose exit [ 3, true ]
